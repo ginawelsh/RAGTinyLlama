@@ -7,6 +7,6 @@ We will be comparing the performance of Large Language Models (LLMs) for Retriev
 
 ## Data source
 We will use Kaggle's Question Answer Dataset (https://www.kaggle.com/datasets/rtatman/questionanswer-dataset) which contains:
-    1. 150 text files, each file corresponding to a topic (=150 topics)
-    2. 4000 question-answer pairs, each pair corresponding to a text file
-    3. A word count summary file (text_data_toc.csv), with the number of words in each text file
+1. 150 text files, each file corresponding to a topic (=150 topics)
+2. 4000 question-answer pairs, each pair corresponding to a text file
+3. A word count summary file (text_data_toc.csv), with the number of words in each text file
