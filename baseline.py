@@ -3,6 +3,7 @@ import json
 import math
 from nltk import WordPunctTokenizer
 import pandas as pd
+import numpy as np
 
 
 def tokenize(string_input):
@@ -11,6 +12,13 @@ def tokenize(string_input):
      tk = WordPunctTokenizer()
      tokens = [token.lower() for token in tk.tokenize(string_input) if token not in punctuation]
      return tokens
+
+def calculate_tf_idf(term, document, corpus_dictionary):
+     """calculate tf_idf score for a given term and corpus"""
+     tf = document.count(term) / len(document)
+     idf = math.log(1 + (len(corpus_dictionary)/(len([document for document in corpus_dictionary if term in corpus_dictionary[document]])+1)))
+     tf_idf = tf * idf 
+     return tf_idf
 
 def create_corpus():
     """extract files and create a dictionary of each file and their contents"""
@@ -24,27 +32,22 @@ def create_corpus():
                 corpus[file_name] = tokens
     return corpus
 
-def calculate_tf_idf(term, corpus_dictionary):
-     """calculate tf_idf score for a given term and corpus"""
-     tf_idfs = {}
-     for document in corpus_dictionary:
-          tf = corpus_dictionary[document].count(term) / len(corpus_dictionary[document])
-          idf = math.log(len(corpus_dictionary) / len([document for document in corpus_dictionary if term in corpus_dictionary[document]])+1)
-          tf_idf = tf * idf 
-          tf_idfs[document] = tf_idf
-     return tf_idfs
 
-def process_query(user_query):
+def calculate_cosine_similiarity(doc_vector_a, doc_vector_b):
+     """calculate cosine similarity in order to compare query vector with document vector"""
+     co_sim = (doc_vector_a * doc_vector_b)/(len(doc_vector_a)*len(doc_vector_b))
+     return co_sim
+
+def process_query(user_query, corpus):
      tokens = tokenize(user_query)
-     return tokens
+     query_vector = np.array([calculate_tf_idf(i, tokens, corpus) for i in tokens])
+     return query_vector
 
 def main():
-     return
+     corpus = create_corpus()
+     test1 = process_query("I got a lotsa apples", corpus)
+     test2 = process_query("Did Lincoln sign the National Banking Act of 1863?", corpus)
+     print(test2)
 
 if __name__ == '__main__':
-    corpus = create_corpus()
-    print(calculate_tf_idf('how', corpus))
-    consensus = calculate_tf_idf('consensus', corpus)
-    ranked_term = sorted([(consensus[c],c) for c in consensus if consensus[c] > 0], reverse=True)
-    print(ranked_term)
-    
+     main()
