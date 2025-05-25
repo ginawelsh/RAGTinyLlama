@@ -58,7 +58,7 @@ Amedeo_Avogadro	Who showed that Avogadro's theory held in dilute solutions?	Jaco
 Amedeo_Avogadro	In what language was his 1811 paper published?	French	hard	hard	S10_set4_a8
 Amedeo_Avogadro	In what language was his 1811 paper published?	Avogadro's 1811 paper was published in French.	hard	hard	S10_set4_a8
 Amedeo_Avogadro	Who was Avogadro's wife?	Felicita Mazz	hard	hard	S10_set4_a8
-Amedeo_Avogadro	Who was Avogadro's wife?	Felicita Mazzé was Avogadro's wife.	hard	hard	S10_set4_a8
+Amedeo_Avogadro	Who was Avogadro's wife?	Felicita Mazzï¿½ was Avogadro's wife.	hard	hard	S10_set4_a8
 Amedeo_Avogadro	Why did Avogadro lose his chair at the University of Turin?	He was active in the revolutionary movements of 1821 against the king of Sardinia	hard	hard	S10_set4_a8
 Amedeo_Avogadro	Why did Avogadro lose his chair at the University of Turin?	Avogadro lost his chair at the University of Turin because he was active in the revolutionary movements of 1821 against the king of Sardinia.	hard	hard	S10_set4_a8
 Amedeo_Avogadro	Was Amedeo Avogadro was born in Turin?	Yes	easy	easy	S10_set4_a8
@@ -274,8 +274,8 @@ Charles-Augustin_de_Coulomb	Did Charles-Augustin de Coulomb come from a poor fam
 Charles-Augustin_de_Coulomb	Did Charles-Augustin de Coulomb come from a poor family?	No, his mother came from a wealthy family in the wool trade.	hard	hard	S10_set4_a6
 Charles-Augustin_de_Coulomb	What is Coulomb's law?	The definition of the electrostatic force of attraction and repulsion.	hard	medium	S10_set4_a6
 Charles-Augustin_de_Coulomb	What is Coulomb's law?	The definition of the electrostatic force of attraction and repulsion.	hard	medium	S10_set4_a6
-Charles-Augustin_de_Coulomb	Where is Collège des Quatre-Nations located?	In Montpellier.	hard	hard	S10_set4_a6
-Charles-Augustin_de_Coulomb	Where is Collège des Quatre-Nations located?	In Paris.	hard	hard	S10_set4_a6
+Charles-Augustin_de_Coulomb	Where is Collï¿½ge des Quatre-Nations located?	In Montpellier.	hard	hard	S10_set4_a6
+Charles-Augustin_de_Coulomb	Where is Collï¿½ge des Quatre-Nations located?	In Paris.	hard	hard	S10_set4_a6
 Charles-Augustin_de_Coulomb	What happened in 1785?	Coulomb presented his three reports on Electricity and Magnetism	NULL	easy	S10_set4_a6
 Charles-Augustin_de_Coulomb	What happened in 1757 to 1759?	Charles-Augustin de Coulomb joined his father's family in Montpellier and took part in the work of the academy of the city.	NULL	hard	S10_set4_a6
 Charles-Augustin_de_Coulomb	Regarding this topic, what did the Revolution do?	The Revolution caused Coulomb to resign his appointment as intendent des eaux et fontains and retire.	NULL	too hard	S10_set4_a6
@@ -302,8 +302,8 @@ Chinese_language	How many head entries for character definitions does the Zhongh
 Chinese_language	What does the PRC government classify as literacy amongst workers?	knowledge of 2,000 characters	hard	medium	S10_set5_a7
 Chinese_language	What does the PRC government classify as literacy amongst workers?	a knowledge of 2000 characters	hard	medium	S10_set5_a7
 Chinese_language	How is South China linguistically different from North China?	South China displays more linguistic diversity	hard	hard	S10_set5_a7
-Chinese_language	&#20415;&#24403;/&#20415;&#30070; “lunchbox or boxed lunch” (from bento) and &#26009;&#29702; “prepared cuisine” are loan words from which language?	Japanese	hard	hard	S10_set5_a7
-Chinese_language	&#20415;&#24403;/&#20415;&#30070; “lunchbox or boxed lunch” (from bento) and &#26009;&#29702; “prepared cuisine” are loan words from which language?	Chinese	hard	hard	S10_set5_a7
+Chinese_language	&#20415;&#24403;/&#20415;&#30070; ï¿½lunchbox or boxed lunchï¿½ (from bento) and &#26009;&#29702; ï¿½prepared cuisineï¿½ are loan words from which language?	Japanese	hard	hard	S10_set5_a7
+Chinese_language	&#20415;&#24403;/&#20415;&#30070; ï¿½lunchbox or boxed lunchï¿½ (from bento) and &#26009;&#29702; ï¿½prepared cuisineï¿½ are loan words from which language?	Chinese	hard	hard	S10_set5_a7
 Chinese_language	What is the standardized form of spoken chinese?	The standardized form of spoken Chinese is Standard Mandarin.	easy	medium	S10_set5_a7
 Chinese_language	What is the standardized form of spoken chinese?	The standardized from of spoken Chinese is Standard Mandarin.	easy	easy	S10_set5_a7
 Chinese_language	Is diglossia a common feature in mainland China and Taiwan?	Yes, diglossia is a common feature in mainland China and Taiwan.	easy	easy	S10_set5_a7
@@ -568,7 +568,7 @@ Guitar	How old is the oldest known representation of a guitar-like intrument bei
 Guitar	How old is the oldest known representation of a guitar-like intrument being played?	3,300 years old	hard	hard	S10_set2_a7
 Guitar	What is the point called that is bolted or glued to the body of the guitar?	Neck Joint	hard	medium	S10_set2_a7
 Guitar	What is the point called that is bolted or glued to the body of the guitar?	Neck joint or 'Heel'	hard	hard	S10_set2_a7
-Henri_Becquerel	Did Becquerel study science at the École des Ponts et Chaussées?	Yes	easy	easy	S10_set4_a9
+Henri_Becquerel	Did Becquerel study science at the ï¿½cole des Ponts et Chaussï¿½es?	Yes	easy	easy	S10_set4_a9
 Henri_Becquerel	Did he become chief engineer in the Department of Bridges and Highways in 1892?	No	easy	easy	S10_set4_a9
 Henri_Becquerel	Did he become chief engineer in the Department of Bridges and Highways in 1892?	yes	easy	easy	S10_set4_a9
 Henri_Becquerel	Was Becquerel a French physicist?	Yes	easy	easy	S10_set4_a9
@@ -579,7 +579,7 @@ Henri_Becquerel	When did he die?	1908	medium	medium	S10_set4_a9
 Henri_Becquerel	When did he die?	1908	medium	hard	S10_set4_a9
 Henri_Becquerel	What is the SI unit for radioactivity called?	becquerel	medium	medium	S10_set4_a9
 Henri_Becquerel	What is the SI unit for radioactivity called?	the becquerel (Bq)	medium	medium	S10_set4_a9
-Henri_Becquerel	When Becquerel discovered radioactivity, whose work did he investigate?	Wilhelm Conrad Röntgen	hard	hard	S10_set4_a9
+Henri_Becquerel	When Becquerel discovered radioactivity, whose work did he investigate?	Wilhelm Conrad Rï¿½ntgen	hard	hard	S10_set4_a9
 Henri_Becquerel	When Becquerel discovered radioactivity, whose work did he investigate?	Wilhelm Conrad RÃ¶ntgen	hard	hard	S10_set4_a9
 Henri_Becquerel	Where are there craters named Becquerel?	Moon and Mars	hard	hard	S10_set4_a9
 Henri_Becquerel	Where are there craters named Becquerel?	on the moon and on mars	hard	medium	S10_set4_a9
@@ -1069,7 +1069,7 @@ Octopus	Is octopus a common food in Mediterranean cuisine as well as Portuguese 
 Octopus	Is the collective form octopus usually reserved for animals consumed for food?	Yes	NULL	easy	S10_set1_a10
 Octopus	Has an octopus a hard beak, with its mouth at the center point of the arms?	Yes	NULL	easy	S10_set1_a10
 Pablo_Picasso	What happened in 1968 through 1971?	Devoting his full energies to his work, Picasso became more daring, his works more colorful and expressive, and from 1968 through 1971	NULL	medium	S10_set6_a1
-Pablo_Picasso	What happened in 1838?	Don José Ruiz y Blasco was born	NULL	hard	S10_set6_a1
+Pablo_Picasso	What happened in 1838?	Don Josï¿½ Ruiz y Blasco was born	NULL	hard	S10_set6_a1
 Pablo_Picasso	Who was not long in finding another lover, Jacqueline Roque?	Picasso.	NULL	medium	S10_set6_a1
 Pablo_Picasso	When did Picasso make his first trip to Paris?	1900	NULL	medium	S10_set6_a1
 Pablo_Picasso	Give an example of the most comprehensive records extant of any major artists beginnings. 	Museu Picasso	NULL	medium	S10_set6_a1

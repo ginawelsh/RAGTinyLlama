@@ -62,12 +62,6 @@ Alessandro_Volta	When did he become professor?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	What did Alessandro Volta publish in 1800?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	Is Volta buried in the city of Como?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	Is the electrolyte sulphuric acid?	NULL	NULL	NULL	S08_set4_a10
-Alessandro_Volta		NULL	NULL	NULL	S08_set4_a10
-Alessandro_Volta		NULL	NULL	NULL	S08_set4_a10
-Alessandro_Volta		NULL	NULL	NULL	S08_set4_a10
-Alessandro_Volta	NOTTTT  FOUND	NULL	NULL	NULL	S08_set4_a10
-Alessandro_Volta		NULL	NULL	NULL	S08_set4_a10
-Alessandro_Volta		NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	Are Count Volta 's original instruments and papers on display there ?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	Is Volta buried in the city of Como ?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	Was his 1800 paper written in French ?	NULL	NULL	NULL	S08_set4_a10
@@ -103,12 +97,6 @@ Amedeo_Avogadro	Was Amedeo Avogadro born in Turin August 9th 1776 to a noble anc
 Amedeo_Avogadro	Is he most noted for his contributions to the theory of molarity and molecular weight?	yes	NULL	easy	S08_set4_a8
 Amedeo_Avogadro	Is he most noted for his contributions to the theory of molarity and molecular weight?	NULL	NULL	NULL	S08_set4_a8
 Amedeo_Avogadro	Is he most noted for his contributions to the theory of molarity and molecular weight?	NULL	NULL	NULL	S08_set4_a8
-Amedeo_Avogadro		NULL	NULL	NULL	S08_set4_a8
-Amedeo_Avogadro		NULL	NULL	NULL	S08_set4_a8
-Amedeo_Avogadro		NULL	NULL	NULL	S08_set4_a8
-Amedeo_Avogadro		NULL	NULL	NULL	S08_set4_a8
-Amedeo_Avogadro		NULL	NULL	NULL	S08_set4_a8
-Amedeo_Avogadro		NULL	NULL	NULL	S08_set4_a8
 Amedeo_Avogadro	Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?	NULL	NULL	NULL	S08_set4_a8
 Amedeo_Avogadro	Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?	NULL	NULL	NULL	S08_set4_a8
 Amedeo_Avogadro	He is what?	NULL	NULL	NULL	S08_set4_a8
@@ -271,9 +259,6 @@ Calvin_Coolidge	What Retrieved on May?	NULL	NULL	NULL	S08_set3_a9
 Calvin_Coolidge	He later what?	NULL	NULL	NULL	S08_set3_a9
 Calvin_Coolidge	They were what?	NULL	NULL	NULL	S08_set3_a9
 Calvin_Coolidge	The Republicans retained what?	NULL	NULL	NULL	S08_set3_a9
-Calvin_Coolidge	(NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))	NULL	NULL	NULL	S08_set3_a9
-Calvin_Coolidge		NULL	NULL	NULL	S08_set3_a9
-Calvin_Coolidge		NULL	NULL	NULL	S08_set3_a9
 Calvin_Coolidge	Was 364 Stone later appointed Chief Justice by President Franklin D. Roosevelt ?	NULL	NULL	NULL	S08_set3_a9
 Calvin_Coolidge	Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge Says , '' from 1930 -- 1931 ?	NULL	NULL	NULL	S08_set3_a9
 Calvin_Coolidge	Were the more well-known Coolidges , such as architect Charles Allerton Coolidge , and diplomat Archibald Cary Coolidge , descended from other branches of the family that had stayed in MassachuS08_setts ?	NULL	NULL	NULL	S08_set3_a9
@@ -335,7 +320,6 @@ Canada	What arrived in Britain?	The first Canadian Army units in WW II	NULL	easy
 Canada	Are Canada 's two official languages English and French ?	yes	NULL	easy	S08_set2_a8
 Canada	Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?	yes	NULL	easy	S08_set2_a8
 Canada	Is Canada a geographically vast and ethnically diverse country ?	yes	NULL	easy	S08_set2_a8
-Canada	Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?	no!	NULL	easy	S08_set2_a8
 Canada	Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?	yes	NULL	easy	S08_set2_a8
 Canada	Did continental European immigrants not S08_settle the prairies ?	no	NULL	easy	S08_set2_a8
 Canada	Is it the world 's second largest country by total area?	yes	NULL	easy	S08_set2_a8
@@ -390,8 +374,6 @@ duck	What allows a duck to filter water out of the side of their beaks and keep 
 duck	What allows a duck to filter water out of the side of their beaks and keep food inside?	tiny rows of plates called lamellae like a whale's baleen	hard	hard	S08_set1_a10
 duck	What expression is part of a conceptual framework for testing computer systems?	Quacks like a duck	hard	hard	S08_set1_a10
 duck	What expression is part of a conceptual framework for testing computer systems?	Quacks like a duck	hard	hard	S08_set1_a10
-duck	Where did the expression "a sitting duck" come from?	In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	hard	hard	S08_set1_a10
-duck	Where did the expression "a sitting duck" come from?	In many areas, wild ducks of various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	hard	hard	S08_set1_a10
 Egypt	Is Egypt bordered by the Gaza Strip?	yes	easy	easy	S08_set2_a6
 Egypt	Is Egypt bordered by the Gaza Strip?	Yes	easy	medium	S08_set2_a6
 Egypt	Is Egypt the most populated country in Africa?	no	easy	medium	S08_set2_a6
@@ -408,7 +390,6 @@ Egypt	Why does most of Egypt's population live near the Nile?	the only arable ag
 Egypt	Why does most of Egypt's population live near the Nile?	The only arable agricultural land is found there	hard	hard	S08_set2_a6
 Egypt	Are there a large number of Jews living in Egypt today?	no	hard	medium	S08_set2_a6
 Egypt	Are there a large number of Jews living in Egypt today?	No	hard	hard	S08_set2_a6
-Egypt	During what period was Akhenaten a Pharaoh?	The New Kingdom (c.1550&#8722;1070 BC) 	hard	hard	S08_set2_a6
 Egypt	During what period was Akhenaten a Pharaoh?	The New Kingdom	hard	hard	S08_set2_a6
 Egypt	Is Egypt in Asia?	No.	easy	easy	S08_set2_a6
 Egypt	Does Egypt receive the least rainfall in the world?	Yes.	easy	easy	S08_set2_a6
@@ -648,8 +629,6 @@ Ghana	What did Ghana capture in 1642?	NULL	NULL	NULL	S08_set2_a5
 Ghana	Is The Parliament of Ghana unicameral?	NULL	NULL	NULL	S08_set2_a5
 Ghana	Is Medieval Ghana (4th- 13th Century): The Republic of Ghana is named after the medieval Ghana Empire of West Africa. named after the medieval Ghana Empire of West Africa?	NULL	NULL	NULL	S08_set2_a5
 Ghana	What was on March?	NULL	NULL	NULL	S08_set2_a5
-Ghana		NULL	NULL	NULL	S08_set2_a5
-Ghana		NULL	NULL	NULL	S08_set2_a5
 Ghana	The coastline is what?	NULL	NULL	NULL	S08_set2_a5
 Ghana	Ghana 's spending on education has what?	NULL	NULL	NULL	S08_set2_a5
 Ghana	Who sits at Osu Castle ?	NULL	NULL	NULL	S08_set2_a5
@@ -797,9 +776,6 @@ Isaac_Newton	Was Newton born three months after the death of his father?	NULL	NU
 Isaac_Newton	What died in London?	NULL	NULL	NULL	S08_set4_a1
 Isaac_Newton	What was against William?	NULL	NULL	NULL	S08_set4_a1
 Isaac_Newton	What quartered on March?	NULL	NULL	NULL	S08_set4_a1
-Isaac_Newton	NOTTTT  FOUND	NULL	NULL	NULL	S08_set4_a1
-Isaac_Newton		NULL	NULL	NULL	S08_set4_a1
-Isaac_Newton		NULL	NULL	NULL	S08_set4_a1
 Isaac_Newton	Were the two in a dispute over optical discoveries at the time ?	NULL	NULL	NULL	S08_set4_a1
 Isaac_Newton	Are Various trees claimed to be " the " apple tree which Newton describes ?	NULL	NULL	NULL	S08_set4_a1
 Isaac_Newton	Was Newton outraged , and went about the work to uncover anything about Chaloner ?	NULL	NULL	NULL	S08_set4_a1
@@ -1395,8 +1371,6 @@ Romania	What do economy and law have in common?	(not sure how to answer this)	NU
 Romania	What did Tourism in Romania attract in 2005?	investments worth 400 million euros	NULL	medium	S08_set2_a7
 Romania	Is Romania a secular state?	Yes	NULL	easy	S08_set2_a7
 Romania	Is Romania a semi-presidential unitary state?	Yes	NULL	easy	S08_set2_a7
-Romania		NULL	NULL	NULL	S08_set2_a7
-Romania		NULL	NULL	NULL	S08_set2_a7
 Romania	Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?	Yes	NULL	easy	S08_set2_a7
 Romania	Was Gellu Naum the leader of the surrealist movement in Romania ?	Yes	NULL	easy	S08_set2_a7
 Romania	Was the Bucharest Metro only opened in 1979 ?	Yes	NULL	easy	S08_set2_a7
@@ -1471,7 +1445,6 @@ Singapore	Has Singapore Changi Airport a network of 81 airlines connecting Singa
 Singapore	Has Singapore a network of reservoirs and water catchment areas ?	Yes	NULL	easy	S08_set2_a2
 Singapore	Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?	Yes	NULL	easy	S08_set2_a2
 Singapore	Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?	No	NULL	medium	S08_set2_a2
-Singapore	Is singapore -LRB- ; (: ; , -RRB- , officially the republic of singapore -LRB- ; (: ; , -RRB- , an island nation located at the southern tip of the malay peninsula?	Yes	NULL	easy	S08_set2_a2
 Singapore	Is singapore the 17th wealthiest country in the world in terms of gdp per capita?	No	NULL	easy	S08_set2_a2
 Theodore_Roosevelt	Was Thedore Roosevelt  a member of the Republican Party?	Yes	easy	easy	S08_set3_a7
 Theodore_Roosevelt	Was Thedore Roosevelt  a member of the Republican Party?	Yes	easy	easy	S08_set3_a7
