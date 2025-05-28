@@ -1,23 +1,23 @@
 ,Topic,Question,CorrectArticleFile,DocumentRetrieved,Match
-0,Isaac_Newton,What Eves?,S08_set4_a1,S09_set4_a1,1
+0,Isaac_Newton,What Eves?,S08_set4_a1,S09_set4_a1,0
 1,Isaac_Newton,What are a rumors that he remained a virgin?,S08_set4_a1,S10_set6_a3,0
-2,Isaac_Newton,"Who was, by later reports of his contemporaries, thoroughly unhappy with the work?",S08_set4_a1,S09_set4_a1,1
-3,Isaac_Newton,Is it true that newton saw god as the master creator?,S08_set4_a1,S09_set4_a1,1
-4,Isaac_Newton,Is it true that he acquired a circle of admirers?,S08_set4_a1,S09_set4_a1,1
-5,Isaac_Newton,Is it true that this contained the beginnings of the laws of motion?,S08_set4_a1,S09_set4_a1,1
-6,Isaac_Newton,"What did Isaac Newton place at 3 April, AD 33, which agrees with one traditionally accepted date?",S08_set4_a1,S10_set4_a1,1
-7,Isaac_Newton,Was Newton outraged?,S08_set4_a1,S10_set4_a1,1
+2,Isaac_Newton,"Who was, by later reports of his contemporaries, thoroughly unhappy with the work?",S08_set4_a1,S09_set4_a1,0
+3,Isaac_Newton,Is it true that newton saw god as the master creator?,S08_set4_a1,S09_set4_a1,0
+4,Isaac_Newton,Is it true that he acquired a circle of admirers?,S08_set4_a1,S09_set4_a1,0
+5,Isaac_Newton,Is it true that this contained the beginnings of the laws of motion?,S08_set4_a1,S09_set4_a1,0
+6,Isaac_Newton,"What did Isaac Newton place at 3 April, AD 33, which agrees with one traditionally accepted date?",S08_set4_a1,S10_set4_a1,0
+7,Isaac_Newton,Was Newton outraged?,S08_set4_a1,S10_set4_a1,0
 8,Isaac_Newton,Was Newton born three months after the death of his father?,S08_set4_a1,S10_set4_a1,0
 9,Isaac_Newton,What died in London?,S08_set4_a1,S09_set3_a1,0
 10,Isaac_Newton,What was against William?,S08_set4_a1,S08_set3_a5,0
 11,Isaac_Newton,What quartered on March?,S08_set4_a1,S08_set3_a5,0
-12,Isaac_Newton,Were the two in a dispute over optical discoveries at the time ?,S08_set4_a1,S09_set4_a1,1
-13,Isaac_Newton,"Are Various trees claimed to be "" the "" apple tree which Newton describes ?",S08_set4_a1,S09_set4_a1,1
-14,Isaac_Newton,"Was Newton outraged , and went about the work to uncover anything about Chaloner ?",S08_set4_a1,S09_set4_a1,1
-15,Isaac_Newton,Was this study cast into doubt when it was later found that Newton himself wrote the study 's concluding remarks on Leibniz ?,S08_set4_a1,S09_set4_a1,1
-16,Isaac_Newton,Did Newton not entertain `` a passion '' for Storer while he lodged at the Clarke house ?,S08_set4_a1,S09_set4_a1,1
-17,Isaac_Newton,Does # Newton not  Third Law states that for every action there is an equal and opposite reaction ?,S08_set4_a1,S10_set4_a1,1
-18,Isaac_Newton,What happened at the time of newton 's birth?,S08_set4_a1,S10_set4_a1,1
+12,Isaac_Newton,Were the two in a dispute over optical discoveries at the time ?,S08_set4_a1,S09_set4_a1,0
+13,Isaac_Newton,"Are Various trees claimed to be "" the "" apple tree which Newton describes ?",S08_set4_a1,S09_set4_a1,0
+14,Isaac_Newton,"Was Newton outraged , and went about the work to uncover anything about Chaloner ?",S08_set4_a1,S09_set4_a1,0
+15,Isaac_Newton,Was this study cast into doubt when it was later found that Newton himself wrote the study 's concluding remarks on Leibniz ?,S08_set4_a1,S09_set4_a1,0
+16,Isaac_Newton,Did Newton not entertain `` a passion '' for Storer while he lodged at the Clarke house ?,S08_set4_a1,S09_set4_a1,0
+17,Isaac_Newton,Does # Newton not  Third Law states that for every action there is an equal and opposite reaction ?,S08_set4_a1,S10_set4_a1,0
+18,Isaac_Newton,What happened at the time of newton 's birth?,S08_set4_a1,S10_set4_a1,0
 19,Isaac_Newton,What happened from school?,S08_set4_a1,S08_set4_a8,0
 20,Isaac_Newton,What happened on those of aristotle?,S08_set4_a1,S10_set4_a4,0
 21,John_Adams,Did John Adams represent the Continental Congress in Europe?,S08_set3_a1,S08_set3_a1,1
@@ -60,7 +60,7 @@
 58,John_Adams,What is now part of Adams National Historical Park?,S08_set3_a1,S08_set3_a1,1
 59,John_Adams,Is it true that adams had spent some time as the ambassador?,S08_set3_a1,S08_set3_a1,1
 60,John_Adams,Is it true that massachuS08_setts sent him in 1774?,S08_set3_a1,S08_set3_a1,1
-61,John_Adams,Who did Massachusetts send in 1774?,S08_set3_a1,S10_set4_a10,0
+61,John_Adams,Who did MassachuS08_setts send in 1774?,S08_set3_a1,S10_set4_a10,0
 62,John_Adams,"Are his last words often quoted as "" Thomas Jefferson survives "" . ?",S08_set3_a1,S08_set3_a1,1
 63,John_Adams,"The John Adams Library , housed at the Boston Public Library , contains what?",S08_set3_a1,S08_set3_a1,1
 64,John_Adams,Adams ' opponents were what?,S08_set3_a1,S08_set3_a1,1
@@ -181,22 +181,22 @@
 179,Liechtenstein,Is it a winter sports resort?,S08_set2_a1,S08_set2_a2,0
 180,Liechtenstein,Is it the smallest german-speaking country in the world?,S08_set2_a1,S09_set5_a2,0
 181,Liechtenstein,"What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?",S08_set2_a1,S08_set2_a1,1
-182,Isaac_Newton,Was Newton a English physicist?,S09_set4_a1,S10_set4_a1,1
-183,Isaac_Newton,Was Newton a English physicist?,S09_set4_a1,S10_set4_a1,1
+182,Isaac_Newton,Was Newton a English physicist?,S09_set4_a1,S10_set4_a1,0
+183,Isaac_Newton,Was Newton a English physicist?,S09_set4_a1,S10_set4_a1,0
 184,Isaac_Newton,Did Newton reject the church's doctrine of the Trinity?,S09_set4_a1,S09_set4_a1,1
 185,Isaac_Newton,Did Newton reject the church's doctrine of the Trinity?,S09_set4_a1,S09_set4_a1,1
-186,Isaac_Newton,Was Newton admitted into Havard College?,S09_set4_a1,S10_set4_a1,1
-187,Isaac_Newton,Was Newton admitted into Havard College?,S09_set4_a1,S10_set4_a1,1
-188,Isaac_Newton,When was Newton's date of birth recorded?,S09_set4_a1,S10_set4_a1,1
-189,Isaac_Newton,When was Newton's date of birth recorded?,S09_set4_a1,S10_set4_a1,1
+186,Isaac_Newton,Was Newton admitted into Havard College?,S09_set4_a1,S10_set4_a1,0
+187,Isaac_Newton,Was Newton admitted into Havard College?,S09_set4_a1,S10_set4_a1,0
+188,Isaac_Newton,When was Newton's date of birth recorded?,S09_set4_a1,S10_set4_a1,0
+189,Isaac_Newton,When was Newton's date of birth recorded?,S09_set4_a1,S10_set4_a1,0
 190,Isaac_Newton,How many laws of motion did Netwon have?,S09_set4_a1,S09_set4_a1,1
 191,Isaac_Newton,How many laws of motion did Netwon have?,S09_set4_a1,S09_set4_a1,1
 192,Isaac_Newton,Who did Newton see as the master creator?,S09_set4_a1,S09_set4_a1,1
 193,Isaac_Newton,Who did Newton see as the master creator?,S09_set4_a1,S09_set4_a1,1
 194,Isaac_Newton,When did Netwon investigate the refraction of light,S09_set4_a1,S09_set4_a1,1
 195,Isaac_Newton,When did Netwon investigate the refraction of light,S09_set4_a1,S09_set4_a1,1
-196,Isaac_Newton,What principles did Newton explain for mechanics?,S09_set4_a1,S10_set4_a1,1
-197,Isaac_Newton,What principles did Newton explain for mechanics?,S09_set4_a1,S10_set4_a1,1
+196,Isaac_Newton,What principles did Newton explain for mechanics?,S09_set4_a1,S10_set4_a1,0
+197,Isaac_Newton,What principles did Newton explain for mechanics?,S09_set4_a1,S10_set4_a1,0
 198,Isaac_Newton,Interaction with what man stirred up Newton's interest in alchemy?,S09_set4_a1,S09_set4_a1,1
 199,Isaac_Newton,Interaction with what man stirred up Newton's interest in alchemy?,S09_set4_a1,S09_set4_a1,1
 200,London,Is London the capital of the United Kingdom?,S09_set3_a1,S09_set3_a1,1
@@ -225,19 +225,19 @@
 223,Isaac_Newton,Where was Isaac Newton born?,S10_set4_a1,S10_set4_a1,1
 224,Isaac_Newton,Who shares credit with Isaac Newton for developing calculus?,S10_set4_a1,S10_set4_a1,1
 225,Isaac_Newton,Who shares credit with Isaac Newton for developing calculus?,S10_set4_a1,S10_set4_a1,1
-226,Isaac_Newton,When did Isaac Newton discover the generalized binomial theorem?,S10_set4_a1,S09_set4_a1,1
-227,Isaac_Newton,When did Isaac Newton discover the generalized binomial theorem?,S10_set4_a1,S09_set4_a1,1
+226,Isaac_Newton,When did Isaac Newton discover the generalized binomial theorem?,S10_set4_a1,S09_set4_a1,0
+227,Isaac_Newton,When did Isaac Newton discover the generalized binomial theorem?,S10_set4_a1,S09_set4_a1,0
 228,Isaac_Newton,Did the Occult influence Newton's theory of gravitation?,S10_set4_a1,S10_set4_a1,1
 229,Isaac_Newton,Did the Occult influence Newton's theory of gravitation?,S10_set4_a1,S10_set4_a1,1
 230,Isaac_Newton,Were Newton's religious views consistent with Anglicanism?,S10_set4_a1,S10_set4_a1,1
 231,Isaac_Newton,Were Newton's religious views consistent with Anglicanism?,S10_set4_a1,S10_set4_a1,1
-232,Isaac_Newton,Which fruit inspired Isaac Newton's theory of gravitation?,S10_set4_a1,S09_set4_a1,1
-233,Isaac_Newton,Which fruit inspired Isaac Newton's theory of gravitation?,S10_set4_a1,S09_set4_a1,1
+232,Isaac_Newton,Which fruit inspired Isaac Newton's theory of gravitation?,S10_set4_a1,S09_set4_a1,0
+233,Isaac_Newton,Which fruit inspired Isaac Newton's theory of gravitation?,S10_set4_a1,S09_set4_a1,0
 234,Isaac_Newton,Was Sir Isaac Newton an English physicist and mathematician?,S10_set4_a1,S10_set4_a1,1
 235,Isaac_Newton,Was Sir Isaac Newton an English physicist and mathematician?,S10_set4_a1,S10_set4_a1,1
-236,Isaac_Newton,Did he build the first practical reflecting telescope?,S10_set4_a1,S09_set4_a1,1
-237,Isaac_Newton,"Was Isaac Newton educated at The King's Schol, Grantham?",S10_set4_a1,S09_set4_a1,1
-238,Isaac_Newton,"Was Isaac Newton educated at The King's Schol, Grantham?",S10_set4_a1,S09_set4_a1,1
+236,Isaac_Newton,Did he build the first practical reflecting telescope?,S10_set4_a1,S09_set4_a1,0
+237,Isaac_Newton,"Was Isaac Newton educated at The King's Schol, Grantham?",S10_set4_a1,S09_set4_a1,0
+238,Isaac_Newton,"Was Isaac Newton educated at The King's Schol, Grantham?",S10_set4_a1,S09_set4_a1,0
 239,Isaac_Newton,When was the Principia published?,S10_set4_a1,S10_set4_a1,1
 240,Isaac_Newton,When was the Principia published?,S10_set4_a1,S10_set4_a1,1
 241,Isaac_Newton,Where is there a Newton statue on display?,S10_set4_a1,S10_set4_a1,1
@@ -258,37 +258,37 @@
 256,Pablo_Picasso,Is he one of the most recognized figures in 20th-century art?,S10_set6_a1,S10_set6_a9,0
 257,Pablo_Picasso,Is he best known for co-founding the Cubist movement and for the wide variety of styles embodied in his work?,S10_set6_a1,S10_set6_a1,1
 258,Pablo_Picasso,"Are among his most famous works the proto-Cubist Les Demoiselles d'Avignon (1907) and Guernica (1937), his portrayal of the German bombing of Guernica during the Spanish Civil War?",S10_set6_a1,S10_set6_a1,1
-259,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,1
-260,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,1
-261,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,1
-262,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,1
-263,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,1
-264,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,1
-265,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,1
-266,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,1
-267,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,1
-268,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,1
-269,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,1
-270,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,1
-271,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,1
-272,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,1
-273,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,1
-274,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,1
-275,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,1
-276,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,1
-277,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,1
-278,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,1
-279,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,1
-280,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,1
-281,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,1
-282,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,1
-283,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,1
-284,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,1
-285,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,1
-286,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,1
-287,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,1
-288,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,1
-289,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,1
-290,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,1
-291,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,1
-292,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,1
+259,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,0
+260,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,0
+261,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,0
+262,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,0
+263,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,0
+264,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,0
+265,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,0
+266,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,0
+267,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,0
+268,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,0
+269,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,0
+270,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,0
+271,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,0
+272,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,0
+273,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,0
+274,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,0
+275,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,0
+276,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,0
+277,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,0
+278,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,0
+279,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,0
+280,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,0
+281,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,0
+282,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,0
+283,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,0
+284,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,0
+285,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,0
+286,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,0
+287,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,0
+288,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,0
+289,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,0
+290,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,0
+291,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,0
+292,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,0
