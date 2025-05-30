@@ -160,18 +160,18 @@
 158,Liechtenstein,Is it a winter sports resort?,S08_set2_a1,S08_set2_a2,0
 159,Liechtenstein,Is it the smallest german-speaking country in the world?,S08_set2_a1,S09_set5_a2,0
 160,Liechtenstein,"What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?",S08_set2_a1,S08_set2_a1,1
-161,Blaise_Pascal,Was Blaise Pascal a mathematician of the first order?,S09_set4_a4,S10_set4_a4,0
-162,Blaise_Pascal,Was Blaise Pascal a mathematician of the first order?,S09_set4_a4,S10_set4_a4,0
-163,Blaise_Pascal,Could Blaise Pascal move without crutches?,S09_set4_a4,S10_set4_a4,0
-164,Blaise_Pascal,Could Blaise Pascal move without crutches?,S09_set4_a4,S10_set4_a4,0
-165,Blaise_Pascal,Has the name Pascal been given to the SI unit of pressure?,S09_set4_a4,S08_set4_a4,0
-166,Blaise_Pascal,Has the name Pascal been given to the SI unit of pressure?,S09_set4_a4,S08_set4_a4,0
-167,Blaise_Pascal,From what did Pascal suffer throughout his life?,S09_set4_a4,S08_set4_a4,0
-168,Blaise_Pascal,From what did Pascal suffer throughout his life?,S09_set4_a4,S08_set4_a4,0
-169,Blaise_Pascal,What did Pascal argue was as perfect as possible?,S09_set4_a4,S08_set4_a4,0
-170,Blaise_Pascal,What did Pascal argue was as perfect as possible?,S09_set4_a4,S08_set4_a4,0
-171,Blaise_Pascal,What is the best physician?,S09_set4_a4,S08_set4_a4,0
-172,Blaise_Pascal,Who was the eldest sibling?,S09_set4_a4,S10_set5_a2,0
+161,Blaise_Pascal,Was Blaise Pascal a mathematician of the first order?,S09_set4_a4,S10_set4_a4,1
+162,Blaise_Pascal,Was Blaise Pascal a mathematician of the first order?,S09_set4_a4,S10_set4_a4,1
+163,Blaise_Pascal,Could Blaise Pascal move without crutches?,S09_set4_a4,S10_set4_a4,1
+164,Blaise_Pascal,Could Blaise Pascal move without crutches?,S09_set4_a4,S10_set4_a4,1
+165,Blaise_Pascal,Has the name Pascal been given to the SI unit of pressure?,S09_set4_a4,S08_set4_a4,1
+166,Blaise_Pascal,Has the name Pascal been given to the SI unit of pressure?,S09_set4_a4,S08_set4_a4,1
+167,Blaise_Pascal,From what did Pascal suffer throughout his life?,S09_set4_a4,S08_set4_a4,1
+168,Blaise_Pascal,From what did Pascal suffer throughout his life?,S09_set4_a4,S08_set4_a4,1
+169,Blaise_Pascal,What did Pascal argue was as perfect as possible?,S09_set4_a4,S08_set4_a4,1
+170,Blaise_Pascal,What did Pascal argue was as perfect as possible?,S09_set4_a4,S08_set4_a4,1
+171,Blaise_Pascal,What is the best physician?,S09_set4_a4,S08_set4_a4,1
+172,Blaise_Pascal,Who was the eldest sibling?,S09_set4_a4,S10_set5_a2,1
 173,Blaise_Pascal,"Aside from the Provincial Letters' religious influence, were they popular as a literary work?",S09_set4_a4,S08_set2_a8,0
 174,Blaise_Pascal,"Aside from the Provincial Letters' religious influence, were they popular as a literary work?",S09_set4_a4,S08_set2_a8,0
 175,Blaise_Pascal,Of whose continual poor health was the cause never precisely determined?,S09_set4_a4,S10_set4_a6,0
@@ -191,29 +191,29 @@
 189,London,How did civil wars affect England during the Middle Ages?,S09_set3_a1,S09_set3_a1,1
 190,Blaise_Pascal,Who was Blaise Pascal's father?,S10_set4_a4,S10_set4_a4,1
 191,Blaise_Pascal,Who was Blaise Pascal's father?,S10_set4_a4,S10_set4_a4,1
-192,Blaise_Pascal,Was Pascal a French mathematician?,S10_set4_a4,S08_set4_a4,0
-193,Blaise_Pascal,Was Pascal a French mathematician?,S10_set4_a4,S08_set4_a4,0
-194,Blaise_Pascal,Did Pascal have poor health throughout his life?,S10_set4_a4,S08_set4_a4,0
-195,Blaise_Pascal,Did Pascal have poor health throughout his life?,S10_set4_a4,S08_set4_a4,0
-196,Blaise_Pascal,How old was Pascal when he lost his mother?,S10_set4_a4,S08_set4_a4,0
-197,Blaise_Pascal,How old was Pascal when he lost his mother?,S10_set4_a4,S08_set4_a4,0
-198,Blaise_Pascal,Who was Pascal's younger sister?,S10_set4_a4,S08_set4_a4,0
-199,Blaise_Pascal,Who was Pascal's younger sister?,S10_set4_a4,S08_set4_a4,0
-200,Blaise_Pascal,What led Pascal to his religious conversion?,S10_set4_a4,S08_set4_a4,0
-201,Blaise_Pascal,What led Pascal to his religious conversion?,S10_set4_a4,S08_set4_a4,0
-202,Blaise_Pascal,How old was Pascal when he died?,S10_set4_a4,S08_set4_a4,0
-203,Blaise_Pascal,How old was Pascal when he died?,S10_set4_a4,S08_set4_a4,0
-204,Blaise_Pascal,Did Pascal write about cycloid before 1658?,S10_set4_a4,S08_set4_a4,0
-205,Blaise_Pascal,Is there a programming language called Pascal?,S10_set4_a4,S08_set4_a4,0
-206,Blaise_Pascal,Is there a programming language called Pascal?,S10_set4_a4,S08_set4_a4,0
+192,Blaise_Pascal,Was Pascal a French mathematician?,S10_set4_a4,S08_set4_a4,1
+193,Blaise_Pascal,Was Pascal a French mathematician?,S10_set4_a4,S08_set4_a4,1
+194,Blaise_Pascal,Did Pascal have poor health throughout his life?,S10_set4_a4,S08_set4_a4,1
+195,Blaise_Pascal,Did Pascal have poor health throughout his life?,S10_set4_a4,S08_set4_a4,1
+196,Blaise_Pascal,How old was Pascal when he lost his mother?,S10_set4_a4,S08_set4_a4,1
+197,Blaise_Pascal,How old was Pascal when he lost his mother?,S10_set4_a4,S08_set4_a4,1
+198,Blaise_Pascal,Who was Pascal's younger sister?,S10_set4_a4,S08_set4_a4,1
+199,Blaise_Pascal,Who was Pascal's younger sister?,S10_set4_a4,S08_set4_a4,1
+200,Blaise_Pascal,What led Pascal to his religious conversion?,S10_set4_a4,S08_set4_a4,1
+201,Blaise_Pascal,What led Pascal to his religious conversion?,S10_set4_a4,S08_set4_a4,1
+202,Blaise_Pascal,How old was Pascal when he died?,S10_set4_a4,S08_set4_a4,1
+203,Blaise_Pascal,How old was Pascal when he died?,S10_set4_a4,S08_set4_a4,1
+204,Blaise_Pascal,Did Pascal write about cycloid before 1658?,S10_set4_a4,S08_set4_a4,1
+205,Blaise_Pascal,Is there a programming language called Pascal?,S10_set4_a4,S08_set4_a4,1
+206,Blaise_Pascal,Is there a programming language called Pascal?,S10_set4_a4,S08_set4_a4,1
 207,Blaise_Pascal,Crowds of believers came to see and kiss the thorn; all of Catholic where acclaimed a miracle?,S10_set4_a4,S10_set4_a4,1
-208,Blaise_Pascal,Wasn't Blaise Pascal a work of Desargues on conic sections?,S10_set4_a4,S08_set4_a4,0
-209,Blaise_Pascal,Who died the next morning?,S10_set4_a4,S08_set4_a4,0
-210,Blaise_Pascal,When did his father die?,S10_set4_a4,S08_set4_a6,0
-211,Blaise_Pascal,When did his father die?,S10_set4_a4,S08_set4_a6,0
+208,Blaise_Pascal,Wasn't Blaise Pascal a work of Desargues on conic sections?,S10_set4_a4,S08_set4_a4,1
+209,Blaise_Pascal,Who died the next morning?,S10_set4_a4,S08_set4_a4,1
+210,Blaise_Pascal,When did his father die?,S10_set4_a4,S08_set4_a6,1
+211,Blaise_Pascal,When did his father die?,S10_set4_a4,S08_set4_a6,1
 212,Blaise_Pascal,"Was he a child prodigy who was educated by his father, a civil servant?",S10_set4_a4,S09_set2_a8,0
 213,Blaise_Pascal,"Was Pascal's earliest work in the natural and applied sciences where he made important contributions to the construction of mechanical calculators, the study of fluids, and clarified the concepts of pressure and vacuum by generalizing the work of Evangelista Torricelli?",S10_set4_a4,S08_set4_a4,0
-214,Blaise_Pascal,Did Pascal also write in defense of the scientific method?,S10_set4_a4,S08_set4_a4,0
+214,Blaise_Pascal,Did Pascal also write in defense of the scientific method?,S10_set4_a4,S08_set4_a4,1
 215,Pablo_Picasso,What happened in 1968 through 1971?,S10_set6_a1,S08_set4_a8,0
 216,Pablo_Picasso,What happened in 1838?,S10_set6_a1,S08_set4_a8,0
 217,Pablo_Picasso,"Who was not long in finding another lover, Jacqueline Roque?",S10_set6_a1,S10_set6_a1,1
@@ -224,37 +224,37 @@
 222,Pablo_Picasso,Is he one of the most recognized figures in 20th-century art?,S10_set6_a1,S10_set6_a9,0
 223,Pablo_Picasso,Is he best known for co-founding the Cubist movement and for the wide variety of styles embodied in his work?,S10_set6_a1,S10_set6_a1,1
 224,Pablo_Picasso,"Are among his most famous works the proto-Cubist Les Demoiselles d'Avignon (1907) and Guernica (1937), his portrayal of the German bombing of Guernica during the Spanish Civil War?",S10_set6_a1,S10_set6_a1,1
-225,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,0
-226,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,0
-227,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,0
-228,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,0
-229,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,0
-230,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,0
-231,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,0
-232,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,0
-233,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,0
-234,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,0
-235,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,0
-236,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,0
-237,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,0
-238,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,0
-239,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,0
-240,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,0
-241,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,0
-242,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,0
-243,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,0
-244,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,0
-245,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,0
-246,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,0
-247,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,0
-248,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,0
-249,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,0
-250,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,0
-251,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,0
-252,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,0
-253,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,0
-254,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,0
-255,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,0
-256,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,0
-257,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,0
-258,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,0
+225,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,1
+226,Piano,Are pianos used in Western music?,S10_set2_a1,S09_set2_a1,1
+227,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,1
+228,Piano,"Are ""upright pianos"" called ""vertical pianos""?",S10_set2_a1,S09_set2_a1,1
+229,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,1
+230,Piano,Did Bartolomeo Cristofori invent the modern piano?,S10_set2_a1,S09_set2_a1,1
+231,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,1
+232,Piano,What is the middle pedal called on grand pianos?,S10_set2_a1,S09_set2_a1,1
+233,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,1
+234,Piano,How many black keys do modern pianos have?,S10_set2_a1,S09_set2_a1,1
+235,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,1
+236,Piano,What is the sustain pedal called?,S10_set2_a1,S09_set2_a1,1
+237,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,1
+238,Piano,Where is Irving Berlin's piano located?,S10_set2_a1,S09_set2_a1,1
+239,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,1
+240,Piano,What kind of piano did Irving Berlin play?,S10_set2_a1,S09_set2_a1,1
+241,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,1
+242,Piano,Is the left-most pedal on a grand piano called the una corda?,S10_set2_a1,S09_set2_a1,1
+243,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,1
+244,Piano,Is it advantageous for a grand piano's metal plate to be quite massive?,S10_set2_a1,S09_set2_a1,1
+245,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,1
+246,Piano,Is the mechanism in an upright piano perpendicular to its keys?,S10_set2_a1,S09_set2_a1,1
+247,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,1
+248,Piano,About how tall is a typical studio piano?,S10_set2_a1,S09_set2_a1,1
+249,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,1
+250,Piano,What are a piano's keys generally made of?,S10_set2_a1,S09_set2_a1,1
+251,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,1
+252,Piano,How many total keys does a typical modern piano have?,S10_set2_a1,S09_set2_a1,1
+253,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,1
+254,Piano,Why are upright pianos more compact?,S10_set2_a1,S09_set2_a1,1
+255,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,1
+256,Piano,Do older pianos have more keys than modern pianos?,S10_set2_a1,S09_set2_a1,1
+257,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,1
+258,Piano,What are the names of a piano's pedals?,S10_set2_a1,S09_set2_a1,1
