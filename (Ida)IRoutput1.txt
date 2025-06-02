@@ -1,0 +1,702 @@
+Question: Did John Adams represent the Continental Congress in Europe?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, John Adams represented the Continental Congress in Europe during the period of the American Revolution. He was one of the key figures in the American Revolution, and his work as a member of Congress and as a diplomat helped to promote the ideals of the American Revolution and eventually lead to the establishment of a new nation-state. Adams traveled extensively throughout Europe during his time as a diplomat, attending conferences, negotiating treaties, and promoting American interests. He also played a prominent role in the creation of the Continental Congress, serving as its chief judge and negotiating treaties with other nations. Adams's contributions to the American Revolution are widely regarded as crucial to the success of the struggle for independence and the establishment of a new nation-state.
+Question: Was Adams raised Congregationalist?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, Adams was raised Congregationalist.
+Question: Was Adams an opponent of the Stamp Act?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, Adams was an opponent of the Stamp Act of 1765. In August 1765, he anonymously contributed four notable articles to the Boston Gazette, which served as a model for other towns to draw up instructions to their representatives in the Massachusetts legislature.
+Question: When did Adams graduate from college?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: John Adams graduated from Harvard College at the age of sixteen (in 1751).
+Question: Who was on the committee with Adams to draft  a Declaration of Independence?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: The committee that drafted the Declaration of Independence was not named. The only known person on the committee was Thomas Jefferson, who was appointed by President George Washington.
+Question: What did Jefferson call John Adams?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: John Adams was called the "Colossus of Independence" by Jefferson, who described him as a "principal negotiator" of the eventual peace treaty with Great Britain.
+Question: What was Adams' political party?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: John Adams was a member of the Democratic-Republican Party, which was a political party formed in the late 18th century in opposition to the monarchy and the monied interests of the aristocracy. Adams was a founding member of the party, and he was the second vice president of the United States under President George Washington, serving from 1797 to 1801.
+Question: Was Adams the first to introduce a bicameral legislature?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, John Adams was the first to introduce a bicameral legislature in the United States. He did so in his proposed Massachusetts Constitution, which was the first constitution written by a special committee and ratified by the people in 1780. The bicameral legislature in his proposed constitution featured a bicameral legislature (two houses) and a bicameral executive (one house). The legislative body was called the House of Representatives, and the executive body was called the Senate. The Senate was not elected directly by the people, but rather was appointed by the House of Representatives.
+Question: Did John Adams get along with Alexander Hamilton?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, John Adams did get along with Alexander Hamilton, a fellow Federalist, in their political careers. Hamilton was a powerful figure in the American political scene, and Adams was one of his closest colleagues and friends. They worked together on various issues, including the formation of the new country and the drafting of the US Constitution. Despite their differences on some issues, they often worked together on legislative and policy issues. 
+
+In a 1783 speech to the New Hampshire Society of the Cincinnati, Hamilton praised Adams for his leadership, saying, "I have had the pleasure of knowing him for many years and have been in his presence when he was in the most excellent spirits." In a letter to Abigail Adams, Hamilton expressed his admiration for Adams, saying, "He is one of those men whose influence is so great that I often think of him as the greatest of all the men that I have ever known."
+
+Despite their differences, Adams and Hamilton remained close friends and colleagues throughout their lives. They often discussed politics, the Constitution, and other issues of importance to the American Republic. Their friendship and collaborative efforts were an important part of the formation of the new nation.
+Question: Did John Adams go to Harvard? 
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, John Adams went to Harvard College at age sixteen (in 1751).
+Question: Did John Adams support the Stamp Act of 1765?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: John Adams did not support the Stamp Act of 1765, and in fact, he opposed its implementation in many ways. He believed that the colonists had a right to be taxed only by consent and that a jury of one's peers was a fundamental right that all free men deserved. Furthermore, Adams was opposed to the British authority's attempt to tax the colonies for the Stamp Act. He believed that the colonies were not under British rule and that the colonists should have the right to determine their own destinies. In short, Adams did not support the Stamp Act of 1765 and believed that the colonies had a right to resist British taxation and authority.
+Question: Is Adams' birthplace part of a national park?
+Retrieved from doc: {'S08_set3_a1.txt.cl', 'S08_set3_a5.txt.cl'}
+Answer: Yes, Adams' birthplace is part of Adams National Historical Park, located in Quincy, Massachusetts.
+Question: When did John Adams serve as Vice President?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: John Adams served as Vice President of the United States from 1789 to 1797.
+Question: With what party did Adams run for presidency?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: John Adams ran for the presidency of the United States of America, as a candidate for the Federalist Party.
+Question: Where is Adams buried?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Adams is buried in United First Parish Church, located in Quincy, Massachusetts.
+Question: Who were the midnight judges?
+Retrieved from doc: {'S10_set6_a10.txt.cl', 'S10_set6_a5.txt.cl'}
+Answer: The midnight judges were a group of artists who were present at the opening of the exhibition, which was held on January 13, 1889. They were responsible for selecting the works to be included in the show.
+Question: In what ways was Adams opposed by Anderw Hamilton?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Anderw Hamilton, one of the leading Federalist Party candidates in 1796, was opposed by Adams in several ways. Hamilton was a fierce opponent of the federalists, who he saw as too authoritarian and overly concerned with Washington's political power. Hamilton also believed that the federalists were a dangerous threat to the country's democracy and that they were working too closely with the British government. 
+
+Adams was also critical of Hamilton's advocacy of the Jay Treaty of 1795, which allowed the British to remain in control of the United States after their defeat in the American Revolution. This treaty was seen by many as a betrayal of American sovereignty and a violation of the country's original intentions when it was signed in 1794. Hamilton's opposition to the treaty caused some confusion and friction between the two men, which further strained their relationship.
+
+Additionally, Hamilton was a vocal critic of Adams's foreign policy, particularly his support for the French in the War of 1812. Hamilton believed that the United States should remain neutral in the conflict and that the United States should not inter
+Question: What information did he record in his diary?
+Retrieved from doc: {'S10_set6_a3.txt.cl', 'S10_set4_a3.txt.cl'}
+Answer: The journal entries in Leonardo's diary are mostly written in mirror-image cursive and provide a wealth of information about his daily life and travels. Here are a few examples:
+
+1. January 15, 1511: "January 15, 1511, a.m. - Went to the palace to see the king, and to the palace of the Duke of Milan."
+
+2. May 20, 1513: "May 20, 1513, a.m. - I left for the port of Genoa to go to Bologna."
+
+3. July 15, 1515: "July 15, 1515, a.m. - I left for Naples."
+
+4. June 1, 1517: "June 1, 1517, a.m. - I left for Rome to go to Naples."
+
+5. January 10, 1518: "January 10, 1518, a.m. - I left for
+Question: Who was defeated for re-election in the`` Revolution of 1800'' by Thomas Jefferson?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: The defeated re-election for re-election in the "Revolution of 1800" was not Thomas Jefferson. John Adams was the sole candidate for the presidency.
+Question: Who represented the Continental Congress in Europe?
+Retrieved from doc: {'S08_set3_a1.txt.cl', 'S08_set3_a8.txt.cl'}
+Answer: The Continental Congress represented the Continental Congress in Europe during the war for American independence. The United States's first representative, John Adams, was sent to Europe as the chief judge of the Massachusetts Superior Court, and he was a close advisor to George Washington, the commander-in-chief of the American Revolutionary forces. Later, the Continental Congress sent several other members to Europe, including John Hancock, who was the president of the Massachusetts Bay Colony and the first governor of Massachusetts, and Samuel Adams, who was the president of the Massachusetts Provincial Congress and later served as the president of the Massachusetts House of Representatives.
+Question: What is now part of Adams National Historical Park?
+Retrieved from doc: {'S08_set3_a7.txt.cl'}
+Answer: Adams National Historical Park, now part of the National Park Service, was created in 1912 as part of the Antiquities Act of 1906. The Antiquities Act was a law passed by Congress that granted the president the power to create national monuments in the United States. The Act gave the president the power to designate historic sites of scientific, archaeological, or historical interest as national monuments. The act gave Congress the power to limit the size of the monuments, which were originally set at 1,000 acres, to 1,000 acres, but Roosevelt was able to increase the size of the park to accommodate his conservationist leanings.
+Question: Is it true that adams had spent some time as the ambassador?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, according to the text material, President John Adams spent some time as an Ambassador to France in 1793-1794. This was a time when France and the United States were at war, and Adams was involved in negotiations for peace between the two countries. It is not clear from the text material what specific roles Adams played in these negotiations, but he did serve as the US Ambassador to France during this time.
+Question: Is it true that massachuS08_setts sent him in 1774?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Yes, massachuS08_setts sent Adams to the first and second Continental Congresses in 1774 and from 1775 to 1778, but he did not serve in that capacity during the Revolutionary War. Adams was appointed the chief judge of the Massachusetts Superior Court in 1775 and continued to serve in that role until 1783.
+Question: Who did MassachuS08_setts send in 1774?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: Massachusetts sent Adams to the first and second Continental Congresses in 1774, but he was not appointed by the committee that he was in.
+Question: Are his last words often quoted as " Thomas Jefferson survives " . ?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: No, "Thomas Jefferson survives" is not commonly quoted as the last words of John Adams, although it is a common quote from him. "Thomas Jefferson survives" is not a direct quote from Adams's last words, but rather a reference to the famous line from the Declaration of Independence.
+Question: The John Adams Library , housed at the Boston Public Library , contains what?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: The John Adams Library, housed at the Boston Public Library, contains the personal collection of more than 3,500 volumes in eight languages, many of which are extensively annotated by Adams. The collection includes Adams's personal writings, including letters to and from members of his family, as well as his diary.
+Question: Adams ' opponents were what?
+Retrieved from doc: {'S08_set3_a1.txt.cl'}
+Answer: The Democratic-Republicans who opposed Adams in his bid for the Presidency.
+Question: Did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its policies ?
+Retrieved from doc: {'S08_set3_a1.txt.cl', 'S08_set3_a2.txt.cl'}
+Answer: The election of 1800 was indeed a bitter and volatile battle, with each side expressing extraordinary fear of the other party and its policies. The Federalists, led by President George Washington, were focused on the issues of the day and believed they could maintain the government's stability and neutrality. The opponents of the Federalists were led by President Thomas Jefferson, who believed that the government should be more active in protecting the nation and its interests.
+
+The election was marred by distrust and suspicion, with each side accusing the other of being a threat to the country. The Federalists were accused of being too timid and weak-willed in the face of the British threat, while the opponents of the Federalists were accused of being too strong and unyielding in their opposition to Jefferson's policies.
+
+The election was also marked by the influence of Hamilton's political machine, which was active in both parties and dominated the political scene in the capital. This made it difficult for the Federalists to maintain their position in the face of opposition from within the party and from the opposition to Jefferson's policies.
+
+Despite these challenges, the election was ultimately won by the
+Question: What happened in 1764?
+Retrieved from doc: {'S09_set3_a1.txt.cl', 'S08_set3_a1.txt.cl'}
+Answer: In 1764, Adams married Abigail Smith, the daughter of a Congregational minister. Their children were Abigail (1765-1813), future president John Quincy (1767-1848), Susanna (1768–1770), Charles (1770-1800), Thomas Boylston (1772-1832), and Elizabeth (1775). Adams was not a popular leader like his second cousin, Samuel Adams, due to his contentiousness and intense analysis of historical examples. He often found his inborn contentiousness to be a restraint in his political career.
+Question: Is a kangaroo a reptile?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, a kangaroo is a reptile that belongs to the family Macropodidae. While many animals, such as the kangaroo, have a hopping gait, they do not have the ability to jump as high or as fast as some other reptiles. The ability to jump is a unique adaptation that allows them to travel over long distances and avoid predators, as they can leap far distances over short distances.
+Question: Is a kangaroo on the Australian coat of arms?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, a kangaroo is featured on the Australian coat of arms. The kangaroo is also the symbol of Australia's currency, Australia's coat of arms URL accessed January 6, 2007. The Kangaroo symbol URL accessed January 6, 2007. The name of the kangaroo is Kangaroo, and it derives from the Guugu Yimidhirr word gangurru, meaning "grey kangaroo." According to legend, Captain James Cook and naturalist Sir Joseph Banks asked a nearby local what the creature was called, and the local responded "Kangaroo," meaning "I don't understand you."
+Question: Was James Cook the first to record the name "Kangooroo?"
+Retrieved from doc: {'S08_set1_a1.txt.cl', 'S08_set2_a10.txt.cl'}
+Answer: No, James Cook was not the first to record the name "Kangooroo." The name "Kangaroo" has been in use since the 18th century, and the first recorded instance of the name being used as a name for a kangaroo is in the 1840s by the explorer and naturalist John McDouall Stuart.
+Question: What is a collective noun for kangaroos?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: A collective noun for kangaroos is a mob.
+Question: Where do joeys complete postnatal development?
+Retrieved from doc: {'S10_set1_a3.txt.cl', 'S08_set1_a1.txt.cl'}
+Answer: Joeys complete postnatal development in various ways, depending on the species and environment. In some cases, the joeys may leave the pouch and begin to explore the environment around them, while others may remain in the pouch until weaning is complete. In some species, joeys may stay in the pouch for several months or even years before leaving to find their own territories.
+
+In general, joeys usually leave the pouch for a few weeks or months after birth, and they usually do not remain in the pouch for more than a few months. The exact duration of postnatal development varies depending on the species and the conditions of the environment, but it is likely that joeys will leave the pouch and begin to explore the environment around them in their first few months.
+Question: What do kangaroos use for "crawl-walking?"
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Kangaroos use their tail to form a tripod while walking. This helps them to maintain balance and avoid sinking into the mud or sand while walking. The rear paws are also used for walking backwards, which is also called "crawl-walking" and is common in other marsupials like wallabies and kangaroos.
+Question: Why do kangaroos have a wide bite?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Kangaroos have a wide bite because of the grazing diet they eat, which results in their teeth being used to crop and grind grass. This enables them to digest large quantities of food in a short amount of time, which is necessary for survival. The width of the bite is important for the efficient use of food and for maintaining a healthy digestive system.
+Question: What is responsible for converting the hydrogen byproduct of fermentation into acetate?
+Retrieved from doc: {'S10_set5_a1.txt.cl'}
+Answer: Responsible for converting the hydrogen byproduct of fermentation into acetate is the enzyme acetogenin. Acetogenin is a type of enzyme that catalyzes the conversion of hydrogen into acetate, the principal product of fermentation. This conversion occurs in the process of fermentation, where bacteria and yeast use enzymes to convert sugar (such as glucose) into acetate.
+Question: Are wild kangaroos shot for meat?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, wild kangaroos are shot for meat in Australia and New Guinea. This is in response to changing landscapes and human activities such as overgrazing and deforestation. Kangaroos are not farmed, and wild populations are often much larger than those that are caught for food.
+Question: Have kangaroos fared well since European S08_settlement?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, kangaroos have fared well since European settlement in Australia. Kangaroos have adapted well to their new environment and have become a vital part of the Australian landscape. 
+
+One of the main benefits of kangaroos is that they are a significant food source for many other animals, including wallabies, birds, and reptiles. Kangaroos are also an important source of habitat for many species of birds, such as the parrots and cockatoos.
+
+In addition to their role as food sources, kangaroos also play a vital role in the ecosystem. They regulate the movement of water and nutrients, and their burrows and dens are essential sites for many other animals.
+
+Despite these benefits, however, kangaroos have also faced a number of challenges in their ongoing evolution. Kangaroos have been affected by habitat loss, introduced predators like foxes and feral cats, and climate change.
+
+However, there have been efforts to address these challenges, such as the establishment of conservation areas and the use of deterrents to prevent predation. Kangaroos are also protected by law,
+Question: Do kangaroos have many natural predators?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, kangaroos have several natural predators, including humans, dogs, foxes, cats, and carnivorous reptiles such as vultures, snakes, and lizards. These predators can pose a significant threat to kangaroos and other animals in their natural habitats. However, kangaroos have developed defensive strategies to fend off these predators, such as catching the attacking predators with their forepaws or disembowelling them with their hind legs. The Canadian Museum of Nature - Kangaroo URL accessed January 6, 2007 provides some information on this defensive tactic.
+Question: What is the average life expectancy of a kangaroo?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: The average life expectancy of a kangaroo is about 4 6 years.
+Question: When did the first official report of kangaroo blindness take place?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: The first official report of kangaroo blindness took place in 1994, in central New South Wales.
+Question: What are vehicles that frequent isolated roads often fitted with?
+Retrieved from doc: {'S09_set3_a7.txt.cl', 'S09_set3_a3.txt.cl'}
+Answer: Vehicles that frequent isolated roads often have features like:
+
+1. High-capacity tires: These tires are designed to handle heavy loads and steep inclines, making them better suited for off-road driving.
+
+2. Low-profile tires: These tires have a lower profile, which allows for better grip on rougher terrain and increased stability.
+
+3. Four-wheel drive: Four-wheel drive systems allow for off-road driving and provide better traction on uneven terrain.
+
+4. Anti-lock brakes (ABS): Anti-lock braking systems (ABS) are designed to reduce the risk of accidents by automatically applying the brakes when the driver brakes suddenly.
+
+5. Traction control: Traction control systems help the vehicle maintain traction on slippery or icy surfaces, helping to prevent skidding and rollover accidents.
+
+6. Electronic stability control (ESC): Electronic stability control (ESC) systems help the vehicle maintain stability even on slippery surfaces and prevent the vehicle from skidding.
+
+7. GPS navigation system: GPS navigation systems provide accurate and up
+Question: Do kangaroos eat plants?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, kangaroos do eat plants. However, unlike other carnivores, they are primarily herbivorous and do not consume large amounts of grass, which is the primary food source for many other carnivores. In fact, the majority of kangaroo diets consist of a variety of plants, including leaves, fruits, and vegetation. 
+
+The type of plant that kangaroos eat depends on the species, but many species are adapted to specific plant species, such as eucalyptus trees, which they use to forage for insects and other small animals. Kangaroos are also known to eat some types of grasses, such as Bromus tectorum and Acacia spp. However, they are generally not as specialized as some other carnivores, such as wolves or coyotes, which may consume a wide variety of plants.
+Question: What are some extinct predators of the kangaroo?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: There have been several extinct predators of the kangaroo, including the following:
+
+1. Thylacine: This marsupial is known to have once been a major predator of the kangaroo, but its extinction in the 1930s was due to hunting and habitat loss.
+
+2. Marsupial Lion: This herbivorous animal lived in Australia during the Late Pliocene and early Pleistocene, but was hunted to extinction by the early 20th century.
+
+3. Megalania: This marsupial lived in Australia from the Late Pliocene to the Late Miocene, and was hunted to extinction by the early 20th century.
+
+4. Wonambi: This marsupial lived in Australia during the Late Miocene to the Late Pliocene, and was hunted to extinction by the early 20th century.
+
+5. Thylacoleo: This marsupial lived in Australia during the Late Miocene to the Late Pliocene, but was hunted to extinction by the early 20th century.
+Question: Is a Kangaroo a Marsupial?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: No, a Kangaroo is not a Marsupial. Marsupials are an order of mammals that includes marsupials, lorises, and anteaters. Kangaroos are the only marsupials that are not closely related to the rest of the marsupial family. The family Macropodidae contains 50 species of kangaroos, including the Red Kangaroo (Macropus rufus) and the Eastern Grey Kangaroo (Macropus giganteus) that are found throughout Australia and New Guinea.
+Question: Is the kangaroo an herbivour?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: The kangaroo is a carnivorous mammal, meaning it primarily consumes meat and does not depend on herbivorous foods as it hunts and forages for food. It is a member of the order carnivora and a member of the family Phasianidae. The term "carnivore" is used to describe a predator that has teeth, claws, and other muscular features adapted for hunting and consuming meat.
+Question: Are Kangaroos Shy?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, Kangaroos are shy and generally avoid being around people unless they are in the presence of another kangaroo. They are known for their distinctive "kangaroo call," which is a series of low, hoarse grunts or mews that they make to communicate with each other. Kangaroos have a long, stiff tail that they use to deflect predators, and they do not have a sharp claw or teeth like most mammals, which makes them easier to avoid. However, some kangaroos have learned to adapt to human presence and can be approached, and some have been known to approach people in the wild. Overall, Kangaroos are generally well-behaved animals and do not pose a significant threat to humans.
+Question: What method of locomotion do Kangaroos Use?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Kangaroos use hopping as their primary mode of locomotion. It involves raising their hind feet forward, with the weight of the feet placed on the ground, in a tripod formation, similar to walking on two legs. The hopping action is a form of locomotion called "crawl-walking," which allows them to cover long distances in search of food and water. Hopping is also a useful technique for kangaroos in Australia, where they can travel long distances and maintain their energy levels.
+Question: What is a collective noun for a kangaroo?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: A collective noun for a kangaroo is a mob. The term "mob" is often used to describe a group of animals, such as a herd of kangaroos. The collective noun for a kangaroo mob is a mob, which is often used in Australian English to describe animals, such as a herd of kangaroos.
+Question: What is a roo?
+Retrieved from doc: {'S10_set5_a5.txt.cl', 'S10_set5_a4.txt.cl'}
+Answer: A roo is a bird in the family Phasianidae, which includes pheasants, partridges, and grouse. Roos are typically found in wooded areas, usually near water. The term "roo" is used to refer to any of these species, although some may be more commonly known as partridges or grouse. Roos are typically small birds with long, curved beaks and long, curved legs. They are known for their distinctive calls and ability to fly fast and efficiently in flight.
+Question: What is used to protect a vehicale from a Kangaroo?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: To protect a vehicle from a kangaroo, various measures are used. Some of these measures include:
+
+1. "Roo bars" - these are designed to minimise damage caused by collision. They are usually placed on the bonnet or roof, but can also be fitted to the back of the car.
+
+2. Bonnet-mounted devices - these are designed to scare wildlife off the road with ultrasound and other methods.
+
+3. Collision deterrent devices - these are designed to reduce the force of impact and thus reduce the risk of injury to the occupants.
+
+4. Barriers - some vehicles have built-in barriers to protect the vehicle from kangaroos. These barriers can include fences, gates, and other physical barriers.
+
+5. Collision avoidance systems - these systems are designed to detect and avoid kangaroo collisions, providing a safer driving experience for both humans and kangaroos.
+
+6. Traffic management systems - these systems monitor traffic flow and adjust the flow of vehicles to avoid kangaroo crossings.
+
+7. Safety glass - some vehicles come with safety glass installed to reduce the
+Question: What method is used by Kangaroos to travel?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: The method used by kangaroos to travel is known as "hoping," which involves the use of hopping to cover long distances and avoid predators. Kangaroos hopping is a highly efficient method of locomotion, as it allows them to cover long distances while conserving energy. They use their long, powerful hind legs and their strong, powerful tail to create a tripod-like structure with their two forelimbs. When they need to move quickly, they use the strength and power of their hind legs to form a tripod with their two forelimbs. This makes them highly mobile and allows them to travel long distances in search of food and water.
+Question: Who asked a nearby local what the creatures were called?
+Retrieved from doc: {'S09_set1_a2.txt.cl', 'S08_set1_a10.txt.cl'}
+Answer: According to the given material, the local local who asked a nearby local what the creatures were called was not specified.
+Question: What are four species that are commonly referred to as kangaroos?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: 1. Red Kangaroo (Macropus rufus)
+2. Eastern Grey Kangaroo (Macropus giganteus)
+3. Western Grey Kangaroo (Macropus fuliginosus)
+4. Antilopine Kangaroo (Macropus antilopinus)
+Question: Are kangaroos and wallabies adept swimmers?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, kangaroos and wallabies are adept swimmers. They are able to swim with great speed and agility, making them a useful tool for navigating through waterways or escaping predators. Kangaroos are also known to hold onto water when swimming, which allows them to stay afloat and avoid drowning. However, swimming is not the only way they use their legs to move through water, as they can also use their tail as a rudder to steer themselves through the water.
+Question: Are kangaroos farmed to any extent?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: While kangaroos are not farmed to any extent, many of their smaller cousins, such as the wallabies and tree-kangaroos, are farmed as pets or for their meat. Some of the larger species, such as the kangaroo, are also sold for food or as pets. However, the widespread conservation efforts and the decline of habitat and predators have led to a decline in kangaroo populations, and many species are considered endangered or vulnerable. It is generally believed that the decline of kangaroo populations is primarily due to habitat loss and fragmentation, as well as human disturbance and predation.
+Question: Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: The first official report of kangaroo blindness took place in 1994 in central New South Wales. The following year, reports of blind kangaroos appeared in Victoria and South Australia. By 1996, the disease had spread "across the desert to Western Australia" and was reported in Western Australia in 1998. The discovery of the virus responsible for the disease, the Wallal virus, was made in 1998. The Wallal virus had not been identified in kangaroos until 1998, after being detected in a sub-species of the species.
+Question: Different species of kangaroos eat what?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Different species of kangaroos eat a wide variety of plants, including grasses, shrubs, ferns, and fungi. However, some species such as eastern grey kangaroos and swamp wallabies also include significant amounts of hypogeal fungi in their diets.
+Question: Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, kangaroos have been known to leap in front of cars in Australia. In 2003, Lulu, an Eastern Grey, saved a farmer's life. She received the RSPCA National Animal Valor Award on May 19, 2003, for her bravery in leaping into the path of an oncoming car. Lulu was a 12-year-old kangaroo who lived in the area and was known to be a fierce predator. She had been living in a kangaroo crossing sign on an Australian highway when she was spotted by a farmer. The farmer noticed that Lulu was avoiding his car and was concerned about her safety. The farmer gave Lulu a ride on his back and drove her safely to a nearby shelter. Lulu's bravery and willingness to help other animals earned her the RSPCA National Animal Valor Award.
+Question: Is a collision with a vehicle capable of killing a kangaroo ?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, a collision with a vehicle can kill a kangaroo. Kangaroos dazzled by headlights or startled by engine noise have been known to leap in front of cars. Kangaroos can be hit by cars and are vulnerable to collisions. While small vehicles may be destroyed, larger vehicles may suffer engine damage. The risk of harm to vehicle occupants is greatly increased if the windscreen is the point of impact. As a result, "kangaroo crossing" signs are commonplace in Australia.
+Question: Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?
+Retrieved from doc: {'S08_set1_a1.txt.cl', 'S10_set3_a2.txt.cl'}
+Answer: Yes, the game of Marn grook was played using a ball made from kangaroo by the Kurnai people. It was a traditional game played by the Kurnai people in the Northern Territory, Australia. The ball was shaped like a small ball of wool or hair, and it was used to play the game. The ball was used to throw and catch, and it was also used to catch and throw a ball back.
+Question: Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, Kangaroos have large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head. These features have evolved for a range of reasons, including the need to regularly cover large distances in search of food and water, the ability to jump from high places to escape predators, and the ability to use their hopping speed for locomotion. These adaptations allow kangaroos to move quickly and efficiently in search of food and water, and to quickly escape predators.
+Question: Is a kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, a kangaroo is a marsupial from the family Macropodidae, the family of macropods. The word marsupium in the description of the pouch that female kangaroos use to carry joeys during pregnancy, is derived from the Guugu Yimidhirr word "gangurru", which means "grey kangaroo". Kangaroos have a long, powerful hind leg and a small head, and are able to move at a fast speed for their size and shape. They are one of the largest species of marsupials, and their large size and power of locomotion allow them to move over long distances for food and water.
+Question: What kinds of changes have larger kangaroos adapted much better to?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Larger kangaroos have adapted much better to changes wrought to the Australian landscape by humans and though many of their smaller cousins are endangered, they are plentiful. They are not farmed to any extent, but wild kangaroos are shot for meat, over which there is controversy. Some of their characteristics include:
+
+1. Size: Kangaroos are large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head.
+
+2. Habitat: Kangaroos live in arid and semi-arid areas of Australia. They prefer dry and arid environments with limited vegetation.
+
+3. Diet: Kangaroos are primarily herbivorous, eating grasses, leaves, and fruits. They do not consume meat, but are known to be omnivorous.
+
+4. Migration: Kangaroos have a large territory, which can stretch up to 20,000 square kilometres (8,000 square miles). They travel long distances, covering about 200 to 400 kilometers (120 to 25
+Question: Have larger kangaroos adapted much better to changes?
+Retrieved from doc: {'S08_set1_a1.txt.cl'}
+Answer: Yes, larger kangaroos have adapted much better to changes wrought to the Australian landscape by humans and though many of their smaller cousins are endangered, they are plentiful. They have adapted to changes wrought by human activity, such as the use of fire and habitat destruction, which has resulted in habitat loss and degradation. They have also adapted to changes wrought by climate change, such as the warming climate, which has led to changes in their habitat and behavior. Despite these changes, larger kangaroos have adapted to survive and thrive in their environment, and are considered to be relatively successful adaptors to the changing landscape.
+Question: Is Liechtenstein bordered by Switzerland?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, Liechtenstein is bordered by Switzerland to the north, east, and south, and by Austria to the west.
+Question: Is Liechtenstein the smallest German-speaking country in the world?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, Liechtenstein is the smallest German-speaking country in the world. It has a population of approximately 34,000 people, making it the fourth smallest country of Europe, after the Vatican City, Monaco, and San Marino. Liechtenstein is located in the Alps, bordered by Switzerland to the west and Austria to the east. It is the only country in Europe without any land borders. Liechtenstein is a landlocked country, with only a few small lakes and rivers. The country is primarily ethnic Alemannic, although its resident population is approximately one third foreign-born, primarily German speakers from the Federal Republic of Germany, Austria, and the Swiss Confederation, other Swiss, Italians, Turks, and other ethnic groups.
+Question: Was Liechtenstein part of the ancient Roman province of Raetia?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, Liechtenstein was part of the ancient Roman province of Raetia, which was in the Roman province of Raetia in the 4th century AD. Raetia was a district of the Roman province of Raetia-Alpes, which was in the Roman province of Raetia in the 2nd century AD. The province of Raetia, which was the predecessor to the modern-day Liechtenstein, was one of the most important Roman provinces in Central Europe.
+Question: When was the first factory opened?
+Retrieved from doc: {'S08_set4_a2.txt.cl', 'S09_set4_a2.txt.cl'}
+Answer: The first factory was opened by Watt in 1769, in London.
+Question: How many municipalities is Liechtenstein divided into?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Liechtenstein is divided into 11 municipalities called gemeinden (singular gemeinde). The gemeinden mostly consist only of a single town. Five of them fall within the electoral district Unterland (the lower county), and the remainder within Oberland (the upper county).
+Question: What is the national currency of Liechtenstein?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Liechtenstein's national currency is the Swiss franc, also known as the Liechtensteinische Schilling. It is the currency of Liechtenstein and is pegged to the Swiss franc at a rate of 1 Liechtensteinische Schilling (L) = 1.00 Swiss franc (CHF).
+Question: Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, Leichtenstein has worked to promote the county's image by prosecuting international money-laundering and showing strong determination to prosecute any international money-laundering. The country has a customs union with Switzerland and employs the Swiss franc as its national currency. The government is working to harmonize its economic policies with those of an integrated Europe. Since 2002, Liechtenstein's rate of unemployment has doubled, although it stood at only 2.2% in the third quarter of 2004. The GDP (PPP) is $1.786 billion CIA World Factbook ( link) and $25,000 per person. Liechtenstein's most recognizable international company and largest employer is Hilti, a manufacturer of concrete fastening systems. Liechtenstein also is the home of the Curta calculator. Liechtensteiners have an average life expectancy at birth of 79.68 years (76.1 years for males; 83.28 years for females). The infant mortality rate is 4.64 deaths per 1,000
+Question: What company administers Leichtenstein's railways?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Leichtenstein's railways are administered by the Liechtensteinischen Eisenbahngesellschaft (LEB), a public railway company that operates on the lines of the Swiss railway network.
+Question: What percentage of Liechtenstein's population is foreign-born?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: According to the 2000 census, 87.9% of the population is Christian, of which 76% adhere to the Roman Catholic faith, while about 7% are Protestant. The religious affiliation for most of the remainder is Islam - 4.8%, undeclared - 4.1%, and no religion - 2.8%.
+Question: Is there an airport in Liechtenstein?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: No, there is no airport in Liechtenstein. However, there is a small heliport at Balzers in Liechtenstein available for charter helicopter flights.
+Question: Is Liechtenstein heavily urbanized?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, Liechtenstein is heavily urbanized. The capital city of Vaduz is the only city in the country, and it has a population of around 8,000. Liechtenstein also has a thriving economy, with a high standard of living and a low cost of living. However, the country's population is still relatively small, making it a relatively isolated community with limited access to resources and opportunities. The economy of Liechtenstein is largely based on agriculture, tourism, and finance, with the government relying on a small number of revenue streams such as royalties from the Habsburg family and taxes on international trade. Despite its small size, Liechtenstein has a rich cultural heritage, with a strong tradition of music, art, and literature. However, it is not as developed as other European countries in terms of infrastructure, and many residents still live in rural areas with limited access to modern amenities.
+Question: Is Liechtenstein doubly landlocked?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, Liechtenstein is doubly landlocked. The country is located on the northern border of Switzerland and Austria, and is situated between these two countries. The country shares a maritime border with Switzerland on the east, and a land border with Austria on the west and south. Liechtenstein is also located in the western Alps, which are a mountainous region bordering Switzerland and Austria.
+Question: Does Liechtenstein have an army?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, Liechtenstein has an army. The Liechtenstein Army is a volunteer force made up of about 4,000 soldiers, including soldiers from the national army, the Gendarmerie, and other volunteer units. Liechtenstein's army is primarily trained for peacekeeping and peace enforcement activities, and it is not an arm of the Swiss army. The army is responsible for maintaining national security and territorial defense.
+Question: When was Liechtenstein's current constitution adopted?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Liechtenstein's current constitution was adopted in October 1921, when the country's population enjoyed one of the world's highest standards of living.
+Question: What is the official language of Liechtenstein?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: The official language of Liechtenstein is German, although the country's population is primarily ethnic Alemannic, with many speakers of Alemannic dialects such as Middle High German and other dialects spoken by immigrants from neighboring regions.
+Question: What countries border Liechtenstein?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Liechtenstein has a land border with Austria (98 km), Switzerland (30 km) and Germany (26 km). It has also a short coastline along the River Rhine, which separates the country from the nearby countries of Switzerland and Austria.
+Question: What Roman province was Liechtenstein part of?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Liechtenstein was part of the ancient Roman province of Raetia, which was located in what is now Lower Austria and Silesia.
+Question: How many municipalities are within Oberland?
+Retrieved from doc: {'S08_set2_a4.txt.cl', 'S09_set3_a8.txt.cl'}
+Answer: Oberland, which includes the four municipalities of Östergötland, is a subregion within the Swedish administrative region of Östergötland. It is located in the north-central part of the country and includes the following municipalities:
+
+1. Östergötland Municipality (Östergötland)
+2. Öster-Eskilstuna Municipality (Öster-Eskilstuna)
+3. Österviken Municipality (Österviken)
+4. Österåker Municipality (Österåker)
+
+As of January 1, 2007, the population of the subregion was approximately 177,000.
+Question: What is the smallest German-speaking country in the world?
+Retrieved from doc: {'S09_set5_a2.txt.cl', 'S08_set2_a1.txt.cl'}
+Answer: The smallest German-speaking country in the world is Liechtenstein.
+Question: The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?
+Retrieved from doc: {'S08_set3_a4.txt.cl', 'S08_set3_a8.txt.cl'}
+Answer: The Savings and Loans Bank was founded in 1863, while the first cotton-weaving mill was established in 1851 by the Memphis Cotton Exchange.
+Question: What enjoys one of the world's highest standards of living?
+Retrieved from doc: {'S08_set2_a4.txt.cl', 'S09_set3_a8.txt.cl'}
+Answer: The world's highest standards of living can be found in Finland, where the country boasts a high standard of living, including high income levels, low crime rates, and low environmental impact. Finland is also known for having one of the lowest levels of income inequality, making it one of the most equal countries in the world. Additionally, Finland has a strong focus on environmental sustainability and has been recognized as a leader in sustainable development, which contributes to a high standard of living for its citizens.
+Question: Does the state court rule on the conformity of laws?
+Retrieved from doc: {'S08_set2_a7.txt.cl', 'S08_set2_a4.txt.cl'}
+Answer: Yes, the state court rules on the conformity of laws. However, unlike other countries where the supreme courts have a role in deciding whether laws conform to the Constitution, the Romanian judicial system does not have a constitutional court or supreme court. The Romanian Constitutional Court, which is responsible for judging the compliance of laws and other state regulations to the Romanian Constitution, is the only court that has jurisdiction to review the constitutionality of laws. The constitution, which was introduced in 1991, can only be amended by a public referendum; the last amendment was in 2003.
+Question: What do most recognizable international company and largest employer have in common?
+Retrieved from doc: {'S09_set3_a1.txt.cl', 'S09_set3_a8.txt.cl'}
+Answer: Most recognizable international company and largest employer have in common is that they are companies with a significant presence in a particular industry or field, with a significant share of the market or a major influence in their industry. Some examples include:
+
+1. Apple: Apple has a significant presence in the technology industry, with a significant share of the global market and a significant influence on the industry.
+
+2. Google: Google is a technology company with a significant presence in the Internet and digital advertising industries.
+
+3. IBM: IBM is a technology company with a significant presence in the IT industry.
+
+4. Microsoft: Microsoft is a technology company with a significant presence in the software industry, with a significant share of the global market.
+
+5. ExxonMobil: ExxonMobil is a multinational oil and gas company with a significant presence in the oil and gas industry.
+
+6. Coca-Cola: Coca-Cola is a beverage company with a significant presence in the alcoholic beverage industry, with a significant share of the global market.
+
+7. Walmart: Walmart is a retail giant with a significant presence in the grocery and ret
+Question: Was Liechtenstein completed in November 2000?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Liechtenstein was completed in November 2000.
+Question: What completed in November?
+Retrieved from doc: {'S09_set4_a1.txt.cl', 'S08_set4_a1.txt.cl'}
+Answer: In November, 1704, Newton wrote a manuscript in which he described his attempts to extract scientific information from the Bible. Newton estimated that the world would end no earlier than 2060. He also estimated that 20% of the coins taken in during The Great Recoinage were counterfeit, and that convictions of the most flagrant criminals could be extremely difficult to achieve, despite the barriers placed to prosecution. Newton was a warden of the Royal Mint and, between June 1698 and Christmas 1699, conducted 200 cross-examinations of witnesses, informers, and suspects. Newton won his convictions and executed ten prisoners.
+Question: The State Court rules what?
+Retrieved from doc: {'S08_set2_a7.txt.cl', 'S08_set2_a4.txt.cl'}
+Answer: The State Court rules in criminal and civil cases.
+Question: The Historical Society of the Principality of Liechtenstein plays what?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: The Historical Society of the Principality of Liechtenstein is a non-profit organization dedicated to preserving and promoting Liechtenstein's history. Their primary focus is to promote research and education about the country's history, culture, and heritage.
+Question: Is the museum collection also the national art collection of Liechtenstein ?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, the museum collection is also the national art collection of Liechtenstein, which was established in 1950 and consists of a collection of art and sculpture that traces the history of the country. The museum is located at the Kunstmuseum Liechtenstein in Vaduz, which was completed in 2000 and is a major landmark in the country.
+Question: Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, there is a small heliport at Balzers in Liechtenstein available for charter helicopter flights. The heliport is located at Balzers Airport, which is approximately 5 miles (8 kilometers) from the city center. The airport is equipped with a runway of 800 meters (2,600 feet) long and has a 20-foot (6-meter) clearance for helicopters. The airport is owned and operated by the Liechtenstein Helicopter Service and is used for both commercial and private flights.
+Question: Are nationals referred to by the plural : Liechtensteiners ?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: Yes, nationals are referred to by the plural : Liechtensteiners.
+Question: Is it a winter sports resort , although it is perhaps best known as a tax haven ?
+Retrieved from doc: {'S08_set2_a1.txt.cl', 'S08_set2_a4.txt.cl'}
+Answer: Yes, Liechtenstein is a winter sports resort, but it is primarily known as a tax haven. However, it has a significant tourism industry, particularly in the summer months when many tourists visit for the ideal weather, such as summer festivals, as well as skiing, dog sledding, and Nordic walking. It is regarded as the home of Saint Nicholas or Santa Claus.
+Question: Is it a winter sports resort?
+Retrieved from doc: {'S08_set2_a1.txt.cl', 'S10_set3_a8.txt.cl'}
+Answer: No, Harry's Mountain Walks in Liechtenstein is not a winter sports resort.
+Question: Is it the smallest german-speaking country in the world?
+Retrieved from doc: {'S09_set5_a2.txt.cl', 'S08_set2_a1.txt.cl'}
+Answer: Yes, Liechtenstein is the smallest german-speaking country in the world. It is located in the northern part of the European continent, bordered by Switzerland to the east, Austria to the south, Germany to the west, and Italy to the north. Liechtenstein is a constitutional monarchy and is headed by a president, and it is a republic with a presidential system of government. Liechtenstein has a population of approximately 38,000, with about 70% speaking German as their mother tongue.
+Question: What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?
+Retrieved from doc: {'S08_set2_a1.txt.cl'}
+Answer: In moravia, lower austria, silesia, and styria, these territories were held in fief under other more senior feudal lords, primarily under various lines of the Habsburg family, to whom several Liechtenstein princes served as close advisors. Thus, and without any territory held directly under the Imperial throne, the Liechtenstein dynasty was unable to meet a primary requirement to qualify for a seat in the Imperial diet, the Reichstag.
+
+---
+
+The family yearned greatly for the added power which a seat in the Imperial government would garner, and therefore, searched for lands to acquire which would be unmittelbar or held without any feudal personage other than the Holy Roman Emperor himself having rights on the land. After some time, the family was able to arrange the purchase of the minuscule Herrschaft ("Lordship") of Schellenberg and countship of Vaduz (in 1699 and 1712 respectively) from the Hohenems. Tiny Schellenberg and Vaduz possessed exactly the political status required, no feudal lord other than their comital sovereign and the suzerain Emperor.
+Question: Was Blaise Pascal a mathematician of the first order?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Yes, Blaise Pascal was a mathematician of the first order.
+Question: Could Blaise Pascal move without crutches?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: While Blaise Pascal was a patient with a broken hip, he did not require crutches or other assistive devices. His condition was stable and he was able to walk unaided. However, he did experience some limitations and discomforts in his daily life. It is possible that he may have required some assistance with his daily activities, such as standing, walking, or carrying groceries. However, this would likely have been minor and not a significant impediment to his daily life.
+Question: Has the name Pascal been given to the SI unit of pressure?
+Retrieved from doc: {'S10_set4_a4.txt.cl'}
+Answer: The SI unit of pressure, the Pascal, is named after the French mathematician and physicist Blaise Pascal. Pascal was a major figure in the development of the scientific method, particularly in his work on the principles of physics. He is known for his work in the fields of hydrodynamics and hydrostatics, as well as his contributions to the development of the barometer and the concept of the vacuum. Pascal's work in these areas has contributed significantly to the development of scientific theories and concepts, and the concept of the vacuum remains a fundamental aspect of modern physics and astronomy.
+Question: From what did Pascal suffer throughout his life?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Pascal suffered from a number of physical, emotional, and spiritual problems throughout his life. Some of these include:
+
+1. Physical: He suffered from chronic pain, including arthritis, which affected his hands and feet. He also had chronic stomach problems and was prone to diarrhea.
+
+2. Emotional: Pascal was a deeply introspective person, often dwelling on his own thoughts and feelings. He was also prone to depression and anxiety.
+
+3. Spiritual: Pascal was deeply religious and believed in the existence of God. However, he also had a strong sense of individualism and was critical of religion in general.
+
+4. Financial: Pascal suffered from financial struggles throughout his life, including periods of debt and illness.
+
+5. Social: Pascal was not well-connected socially, which contributed to his isolation and feelings of loneliness.
+
+6. Intellectual: Pascal struggled with intellectual and academic issues throughout his life, including his inability to communicate effectively with others.
+
+These physical, emotional, and spiritual problems contributed to his eventual descent into depression and eventual
+Question: What did Pascal argue was as perfect as possible?
+Retrieved from doc: {'S10_set4_a4.txt.cl'}
+Answer: Pascal argued that everything in the universe should be as perfect as possible, which can be expressed as "as perfect as possible". This is a philosophical concept that has been debated and explored by philosophers throughout history. Pascal used the phrase "as perfect as possible" to describe the ideal state of things in which everything is harmonious, in balance, and without dissonance. The idea behind this ideal is that everything should be in harmony with itself, without conflicts or contradictions, and that there should be no dissonance or tension in the universe.
+Question: What is the best physician?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: The best physician in Pascal's life was Monsieur Doctor Deslandes. Deslandes was a renowned physician of the time and was known for his expertise in surgeries. He was highly respected in Rouen and had a reputation for being both knowledgeable and caring. He was also known for his use of the new technology, such as the stethoscope and the needle, which allowed him to diagnose and treat patients more efficiently. Pascal was impressed by Deslandes's knowledge and skills, and he became a great admirer of his work.
+Question: Who was the eldest sibling?
+Retrieved from doc: {'S08_set2_a1.txt.cl', 'S08_set3_a7.txt.cl'}
+Answer: The eldest sibling of Theodore Roosevelt was his sister Anna, nicknamed "Bamie" as a child and "Bye" as an adult for being always on the go.
+Question: Aside from the Provincial Letters' religious influence, were they popular as a literary work?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Yes, the Provincial Letters were very popular as a literary work. They were written in a clear, concise, and accessible style, and they were well-received by a wide audience. Many readers and scholars have since recognized the literary merit of Pascal's letters, and they have been praised for their wit, humor, and satirical attacks on religion and the Church. 
+
+The letters were also well-received by scholars who studied the religious context in which Pascal's life and works were created. The letters were a vital source of information about the religious beliefs and practices of the time and allowed scholars to gain insights into the thinking and motivations of Pascal's contemporaries. 
+
+Pascal's letters were also influential in shaping the literary and intellectual culture of the time. They were read and studied by scholars, writers, and artists who were interested in the religious and intellectual issues of the time. The letters were seen as a model of the "new philosophy" and were widely read as a critique of traditional religion and its practices.
+
+Overall, the Provincial Letters were highly regarded by scholars and readers alike, and
+Question: Of whose continual poor health was the cause never precisely determined?
+Retrieved from doc: {'S08_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: The cause of Pascal's continual poor health is not explicitly stated in the given text. However, it is noted that despite the autopsy performed after his death, the cause of his continual poor health was not precisely determined, though speculation focuses on tuberculosis, stomach cancer, or a combination of the two.
+Question: What is given for the number of native speakers?
+Retrieved from doc: {'S09_set5_a1.txt.cl'}
+Answer: The number of native speakers is not given in the given passage. However, according to the information given in the text, it is estimated that there are approximately 375 million people who speak English as their first language. The text also states that the estimated number of native speakers varies greatly depending on how literacy or mastery is defined, but that approximately 214,809,000 people speak exclusively English at home.
+Question: Is english an intonation  language?
+Retrieved from doc: {'S09_set5_a1.txt.cl'}
+Answer: English is an intonation language, which means it has a strong emphasis on the pitch, volume, and tone of speech. Intonation is the art of creating a specific tone of voice, expression, and feeling through the use of body language, tone, and volume. It is a fundamental aspect of English language communication and is a key element in the development of a person's personality and social interactions. Intonation is a fundamental aspect of the English language that allows speakers to convey meaning and emotion through their speech, and it is essential to the overall sound and meaning of a sentence.
+Question: Is english a de  jure  official  language  of Israel?
+Retrieved from doc: {'S09_set5_a5.txt.cl'}
+Answer: No, english is not a de jure official language of Israel. The country is a de facto country and does not have an official language. The Hebrew language is the official language of Israel and is used for official and government purposes. However, in some areas, English is used for diplomatic and commercial purposes.
+Question: Is the stressed  syllable called the nuclear  syllable?
+Retrieved from doc: {'S09_set5_a2.txt.cl', 'S09_set5_a1.txt.cl'}
+Answer: Yes, the stressed syllable called the nuclear  syllable is called the nuclear  syllable in English. The stressed syllables are the ones that are stressed more strongly than the unstressed syllables. The unstressed syllables are also called unstressed syllables or neutral syllables. In a sentence, each tone group can be subdivided into syllables, which can either be stressed (strong) or unstressed (weak). The stressed syllable is called the nuclear  syllable, and the unstressed syllables are called unstressed  syllables.
+Question: Does english grammar have minimal inflection?
+Retrieved from doc: {'S09_set5_a2.txt.cl', 'S10_set5_a9.txt.cl'}
+Answer: Yes, English grammar does have minimal inflection. The inflectional endings (nouns, noun-plural suffixes, adjectives, adverbs, and adverbs-adjectives) in English are entirely uninflected, meaning that they do not change in form or meaning when the grammatical category to which they are attached changes. This means that English does not have any grammatical inflectional endings, and instead, it has a fixed set of grammatical categories that are inflected only in certain cases. Inflectional endings, such as the inflexional ending of -s or -ses, are reserved for particular grammatical categories, such as nouns, pronouns, and adjectives. Inflectional endings are not commonly used in English, and they are not considered to be part of the language's lexical system.
+Question: Did old English develop into Middle English?
+Retrieved from doc: {'S09_set5_a1.txt.cl'}
+Answer: Yes, Old English developed into Middle English, a more complex and sophisticated form of English that emerged in the 13th century and was the dominant form of English for the next few centuries. The language, which was originally spoken in England, was heavily influenced by the Old Norse language of the Viking invaders, and it borrowed heavily from the Latin and Greek languages. The development of Middle English was a result of the gradual spread of the Norman language, which had been introduced to England during the Norman Conquest. By the 15th century, Middle English had become the most widely spoken and influential form of English, and it has continued to be used today in many parts of the world.
+Question: Are books, magazines, and newspapers written in English available?
+Retrieved from doc: {'S08_set2_a4.txt.cl', 'S10_set5_a5.txt.cl'}
+Answer: Yes, books, magazines, and newspapers written in English are available in Finland. Finnish books and magazines are typically published in both Finnish and English. English-language newspapers and magazines, such as Helsingin Sanomat and Aamulehti, are also widely available. Additionally, many websites and online services, such as the BBC and CNN, are available in English. While there are fewer English-language newspapers and magazines in Finland than there are in many other countries, they are still widely available.
+Question: Is the syntax of German different with different rules?
+Retrieved from doc: {'S10_set5_a9.txt.cl'}
+Answer: Yes, the syntax of German is also different from that of English, but it shares many similarities with other Germanic languages. German has a basic word order and grammatical structure, but it also possesses several rules that differ from those of English. Some of the differences are:
+
+1. Nouns: German has three main grammatical cases, which differ from those of English: nominative, accusative, and dative. Nominative cases are used for nouns that have a singular or plural form, while accusative cases are used for nouns that do not have a grammatical form, and dative cases are used for nouns that have a grammatical form but do not have a corresponding grammatical form.
+
+2. Adjectives: German has a complex and rich system of adjectives that differ from those of English. German adjectives are marked by a case (nominative or accusative) and a person (singular or plural) and are used to modify nouns, verbs, and adverbs.
+
+3. Verbs: German verbs have a different conjugation system from that of English, with several tenses and m
+Question: Is it true that semantics causes a number of false friends?
+Retrieved from doc: {'S10_set5_a7.txt.cl', 'S10_set5_a5.txt.cl'}
+Answer: Yes, it is true that semantics causes a number of false friends. While this is not a universally accepted view, some linguists and psychologists believe that it is an essential aspect of language and cognition.
+
+Semantics is the study of the meaning or "significance" of words and phrases. It involves the analysis of the words and phrases in a sentence, and how they contribute to the overall meaning of the text. When a word or phrase is used in isolation, it may be understood as a stand-alone entity, but when it is part of a sentence, it has to be interpreted as part of a larger context.
+
+Semantics can lead to false friends in a number of ways. For example, one word or phrase may be used in a sentence to convey different meanings in different contexts. This is because the meanings of words and phrases can be different, depending on the context in which they are used.
+
+Another example is the phenomenon of semantic shifts. This occurs when a word or phrase changes its meaning over time, due to changes in context or usage. For example, in the past, the word "pen" meant a small writing tool or tool for writing letters,
+Question: Here , are all syllables unstressed , except the syllables/words best and done , which are stressed ?
+Retrieved from doc: {'S09_set5_a2.txt.cl', 'S09_set5_a1.txt.cl'}
+Answer: Yes, all syllables in English, including those that are unstressed, except for the syllables/words best and done, are stressed.
+Question: Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?
+Retrieved from doc: {'S10_set5_a9.txt.cl', 'S09_set5_a1.txt.cl'}
+Answer: Yes, many words describing the navy, types of ships, and other objects or activities on the water of Dutch origin are of Dutch origin. Yacht (jacht), skipper (schipper), cruiser (kruiser), spook, and the now obsolete snyder (tailor) and stiver (small coin) are examples.
+Question: Are local variations in the formal written version of the language quite limited , being restricted largely to the spelling differences between British and American English ?
+Retrieved from doc: {'S09_set5_a1.txt.cl'}
+Answer: Yes, local variations in the formal written version of the language are quite limited. While there are some differences in spelling and pronunciation between British and American English, the formal written version of the language, known as "written English," is quite similar to each other. The differences in pronunciation and spelling are primarily related to dialect and regional differences, rather than to differences in the meaning of words. However, some words and phrases, particularly those used in the literary and theater world, may have more pronounced regional variations. These regional variations may be found in words like "toad," "toast," and "toodle" and in expressions like "to do," "to say," and "to do it."
+Question: Is London the capital of the United Kingdom?
+Retrieved from doc: {'S09_set3_a1.txt.cl'}
+Answer: The United Kingdom is a federation of four countries, each with its own capital city. The capital of England is London, while the capital of Scotland and Wales is Edinburgh, and the capital of Northern Ireland is Belfast. The United Kingdom does not have a single capital city, and each country has its own unique way of governing and establishing its own identity.
+Question: Does London's population draw from a wide range of religions?
+Retrieved from doc: {'S09_set3_a1.txt.cl'}
+Answer: Yes, the population of London draws from a wide range of religions. According to the Office for National Statistics, as of 2006, the majority of London's foreign-born population is Christian, followed by those of no religion (15.8%), Muslims (8.5%), Hindus (4.1%), Jews (2.1%), Sikhs (1.5%), Buddhists (0.8%), and other (0.5%).
+Question: Did Caunte take control of the English throne in 101?
+Retrieved from doc: {'S09_set3_a1.txt.cl'}
+Answer: Yes, Caunte took control of the English throne in 101 after Ethelred's death.
+Question: Over how many languages are spoken in London?
+Retrieved from doc: {'S09_set5_a1.txt.cl'}
+Answer: According to the information provided, there are estimated to be over 375 million people who speak English as their first language in London. However, when combining native and non-native speakers, it is likely that the number of speakers is much higher, with estimates ranging from 470 million to over a billion depending on how literacy or mastery is defined.
+Question: What had the Anglo-Saxons created by the 600s?
+Retrieved from doc: {'S09_set5_a1.txt.cl'}
+Answer: The Anglo-Saxons created many new words and phrases in Old English, which were later incorporated into the standard English lexicon. Some of the most important new words and phrases were:
+
+1. "Worship" - Old English had no word for "worship" or "sacrifice" but it did have a word for "rubbing of a stone on an altar."
+
+2. "England" - Old English had no word for "England" but it did have a word for "land" or "region."
+
+3. "Hope" - Old English had no word for "hope" or "prayer" but it did have a word for "promise."
+
+4. "Romanes" - Old English had no word for "Romanes" or "Roman," but it did have a word for "Roman soldier."
+
+5. "Burgh" - Old English had no word for "burgh" or "fortified town," but it did have a word for "village."
+
+6. "Burgh" - Old English had no word for "burgh" or "fortified
+Question: What city in the UK has been subjected to bouts of terrorism?
+Retrieved from doc: {'S09_set3_a1.txt.cl', 'S09_set3_a10.txt.cl'}
+Answer: The city in the UK that has been subjected to bouts of terrorism is London.
+Question: What countries did James VI of Scotland unite?
+Retrieved from doc: {'S08_set4_a2.txt.cl', 'S09_set4_a2.txt.cl'}
+Answer: James VI of Scotland united only with Scotland, although he was the first ruler of the United Kingdom.
+Question: How did civil wars affect England during the Middle Ages?
+Retrieved from doc: {'S09_set3_a1.txt.cl', 'S10_set3_a4.txt.cl'}
+Answer: Civil wars affected England during the Middle Ages in several ways. Firstly, the wars caused a decline in the power of the English monarchy, as many nobles joined the forces of the King of France, leading to the fragmentation of the English state. This made it easier for the French to invade England and seize power.
+
+Secondly, the wars also led to the breakup of the English Empire, with England becoming a less powerful country and losing territory in the process. The Norman conquest of England in the 11th century led to the fragmentation of England into several different kingdoms, each with its own identity and culture.
+
+Thirdly, the wars had an impact on the development of English society, as it caused the growth of urban centres and the emergence of a new class of merchants and bankers. These new classes played a crucial role in the economy and politics of England, and helped to shape the country's future.
+
+Finally, the wars also had a significant impact on the culture of England, as they forced the English to adapt to new ways of life and the ways of the French, leading to the development of English vernaculars and customs
+Question: Who was Blaise Pascal's father?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Blaise Pascal's father was Étienne Pascal (1588-1651), a local judge and member of the "noblesse de robe".
+Question: Was Pascal a French mathematician?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Yes, Blaise Pascal was a French mathematician. However, he was primarily known for his contributions to the field of projective geometry, which was a major area of research during the 17th and 18th centuries.
+Question: Did Pascal have poor health throughout his life?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Yes, Pascal did have poor health throughout his life, but his condition was not always severe. He was known to have had various health issues throughout his life, including chronic pain and arthritis, which he may have treated with herbal remedies or other natural remedies. However, his overall health was not always as good as some may have thought, and he did experience several serious medical conditions during his lifetime. For instance, he was known to have had several strokes and was considered to be afflicted with epilepsy, which is a condition that causes seizures. He also had a history of mental health issues, including depression and anxiety, which were likely exacerbated by his physical health issues. Overall, while he may have had some health problems throughout his life, he was able to maintain his health and wellbeing despite them, and his medical conditions were likely a contributing factor to some of his philosophical writings and experiments.
+Question: How old was Pascal when he lost his mother?
+Retrieved from doc: {'S08_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: Pascal lost his mother, Antoinette Begon, at the age of three.
+Question: Who was Pascal's younger sister?
+Retrieved from doc: {'S08_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: Pascal's younger sister was Jacqueline, not Gilberte, as was previously stated.
+Question: What led Pascal to his religious conversion?
+Retrieved from doc: {'S08_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: The reasons behind Pascal's religious conversion are not well-known, but some possible explanations include:
+
+1. Pascal was a devout Catholic and had been influenced by the teachings of the Church. He may have grown increasingly disillusioned with the Church's teachings and wanted to find a new path.
+
+2. Pascal may have been influenced by his personal experiences, such as experiencing spiritual visions or seeing the afterlife. He may have been drawn to the idea of a higher power or a personal relationship with God.
+
+3. Pascal may have experienced a conversion experience, such as being visited by a holy spirit or experiencing a spiritual encounter. This may have led him to believe in the existence of God or the possibility of a personal relationship with Him.
+
+4. Pascal may have been influenced by philosophical thought, such as the ideas of René Descartes or the writings of Thomas Aquinas. He may have come to believe that there was a higher power or a personal relationship with God that could explain the world and provide meaning and purpose.
+
+5. Pascal may have been influenced by the teachings of other religions, such as Christianity or Islam. He may have been attracted to
+Question: How old was Pascal when he died?
+Retrieved from doc: {'S08_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: Pascal died at the age of 45.
+Question: Did Pascal write about cycloid before 1658?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Yes, Pascal wrote about cycloid in his book "On the Contrary" in 1658. The book was published as a response to a work by Descartes that criticized Pascal's work on the topic. The cycloid was one of the main topics of Pascal's work, and he discussed its properties, the nature of its motion, and its relation to the properties of other bodies. Pascal's work on the subject was influenced by his observations of the motion of objects in motion, which he had made with the aid of a clock mechanism.
+Question: Is there a programming language called Pascal?
+Retrieved from doc: {'S10_set5_a3.txt.cl', 'S10_set5_a5.txt.cl'}
+Answer: Yes, there is a programming language called Pascal. Pascal is a general-purpose high-level programming language developed in France in the early 20th century. It is known for its readability, ease of use, and ability to handle large amounts of data and complex algorithms. Pascal was initially developed to be a simple, high-level language for the development of electronic calculators, but it quickly became popular for its versatility and flexibility in other areas. Pascal was the first language developed specifically for the use of computers, and it has continued to evolve and be adapted to new technologies over the years. Pascal is still used in many computer systems today, including those developed for scientific computing, scientific and medical research, and financial applications.
+Question: Crowds of believers came to see and kiss the thorn; all of Catholic where acclaimed a miracle?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Yes, crowds of believers came to see and kiss the thorn; all of Catholic Paris acclaimed a miracle. The reason for the miracle was that the thorn was believed to have been removed from Marguerite's eye by the nuns of the Port-Royal nunnery, and it was claimed that this miracle proved the age of miracles had not passed. The nuns themselves reported that the thorn had indeed been removed, and that its removal had been a miracle in and of itself.
+Question: Wasn't Blaise Pascal a work of Desargues on conic sections?
+Retrieved from doc: {'S08_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: Yes, Blaise Pascal was a work of Desargues on conic sections. Pascal's work on conic sections is known as the "Mystic Hexagram" and was published in 1645. It was first shown to Desargues in Paris, where he wrote a letter praising Pascal's work. However, it was not until 1661 that Desargues showed Pascal's work to Pascal himself, who refused to believe that the composition was not by the elder Pascal.
+Question: Who died the next morning?
+Retrieved from doc: {'S10_set6_a7.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: The next morning, Van Gogh died in Saint-Paul-de-Mausole on 29 April 1890.
+Question: When did his father die?
+Retrieved from doc: {'S08_set3_a1.txt.cl', 'S08_set3_a10.txt.cl'}
+Answer: John Quincy Adams' father, John Adams, died on July 4, 1826, exactly 10 years after his father's death.
+Question: Was he a child prodigy who was educated by his father, a civil servant?
+Retrieved from doc: {'S09_set4_a1.txt.cl', 'S08_set4_a1.txt.cl'}
+Answer: No, Isaac Newton was not a child prodigy who was educated by his father, a civil servant. Although his father, John Newton, was a civil servant, he did not have a formal education. Newton was educated by his mother, Ann Lee Newton, who was a farmer's wife and a former student at the King's School. Newton was not formally educated like other children of his time, and he was not educated by his father.
+Question: Was Pascal's earliest work in the natural and applied sciences where he made important contributions to the construction of mechanical calculators, the study of fluids, and clarified the concepts of pressure and vacuum by generalizing the work of Evangelista Torricelli?
+Retrieved from doc: {'S08_set4_a4.txt.cl', 'S10_set4_a4.txt.cl'}
+Answer: Yes, Blaise Pascal's earliest work in the natural and applied sciences was in the construction of mechanical calculators, which is what he wrote about in his treatise "De l'Arithmétique des Mechaniques" (On the Arithmetic of Mechanical Machines). This work was published in 1650 and provided a detailed explanation of how to calculate the volume of a solid by using mechanical engineering principles. The work was a significant contribution to the field of mechanics and is considered to be one of Pascal's most important contributions to science.
+Question: Did Pascal also write in defense of the scientific method?
+Retrieved from doc: {'S09_set4_a4.txt.cl', 'S08_set4_a4.txt.cl'}
+Answer: Yes, Blaise Pascal did write in defense of the scientific method. He wrote a treatise on the subject of projective geometry, titled "Le Progression des Sciences", which was published in 1663. In this treatise, he argued for the importance of empirical evidence and mathematical reasoning in the scientific method. He also wrote a short essay, "Le Système des Modes de l'Energie", which argued for the use of mathematical models in predicting the behavior of physical systems. Pascal's defense of the scientific method was based on his belief that empirical evidence and mathematical reasoning were essential to the development of scientific knowledge.
+Question: What happened in 1968 through 1971?
+Retrieved from doc: {'S08_set2_a7.txt.cl'}
+Answer: In 1968, Romania experienced a period of political instability and economic decline. The Soviet-led invasion of Czechoslovakia led to the collapse of the Soviet Union and the end of the Cold War. This, along with a series of economic crises, led to a decline in Romania's foreign debt and an increase in its trade partners, which led to the opening of the country to foreign investment. 
+
+In 1970, Romania's economy began to recover, but by 1974, the country was facing a severe economic crisis that led to the resignation of the Ceauşescus. The Romanian government was unable to implement the IMF's economic policies, and the country's economic fortunes declined further. 
+
+The Romanian Revolution of 1989, which overthrew the Ceauşescus, was a result of the economic and social changes that followed. The country was no longer under the control of the Soviet Union and faced a new set of challenges, including the need to redistribute wealth and address the country's political and social divisions. 
+
+In 1989,
+Question: What happened in 1838?
+Retrieved from doc: {'S08_set3_a9.txt.cl', 'S08_set3_a3.txt.cl'}
+Answer: In 1838, the Whigs nominated Andrew Jackson as their candidate for president, but he was defeated by the Democratic candidate, Martin Van Buren. In response to Jackson's defeat, the Whigs nominated William Henry Harrison, a member of their own party, as their candidate. Harrison lost the election to Van Buren, but he was the first president in American history to serve as both a Democratic and Whig.
+Question: Who was not long in finding another lover, Jacqueline Roque?
+Retrieved from doc: {'S10_set6_a1.txt.cl', 'S09_set4_a4.txt.cl'}
+Answer: Jacqueline Roque was not the only woman who was not long in finding another lover for Picasso. In addition to Gilot, who had been seeking a legal means to legitimize her children with Picasso, Picasso had secretly married Roque after Gilot had filed for divorce in order to exact his revenge for her leaving him.
+Question: When did Picasso make his first trip to Paris?
+Retrieved from doc: {'S10_set6_a1.txt.cl'}
+Answer: Picasso made his first trip to Paris in 1897, when he was 16 years old, and he disliked formal instruction at the Royal Academy of San Fernando.
+Question: Give an example of the most comprehensive records extant of any major artists beginnings. 
+Retrieved from doc: {'S10_set6_a10.txt.cl'}
+Answer: One example of a major artist's beginnings is the work of German painter Gustav Klimt, who was born in Vienna in 1862. Klimt's work is considered to be one of the most important artistic movements in the 19th century, and his contributions to the development of the art of painting in Vienna and Austria are widely recognized.
+
+Klimt's work has been the subject of numerous exhibitions, including the exhibition "Gustav Klimt: The Eyes of the Artist" at the Austrian National Gallery in Vienna in 2004. The exhibition showcased over 200 paintings and works on paper, and it was the largest Klimt exhibition in the world to date.
+
+Klimt's early works were characterized by their use of color, rich textures, and dramatic brushwork. He was a master of depicting the human form and emotions through his use of light and shadow. His paintings often featured exotic and mythical subjects, such as nudes, women in a variety of poses, and scenes from everyday life.
+
+Klimt's work was influenced by
+Question: Is in the 1996 movie Surviving Picasso Picasso played by actor Anthony Hopkins?
+Retrieved from doc: {'S10_set6_a1.txt.cl'}
+Answer: Yes, in the 1996 movie Surviving Picasso Picasso was played by actor Anthony Hopkins.
+Question: Is the U.S. copyright representative for the Picasso Administration the Artists Rights Society?
+Retrieved from doc: {'S10_set6_a1.txt.cl', 'S10_set6_a9.txt.cl'}
+Answer: Yes, the U.S. copyright representative for the Picasso Administration is the Artists Rights Society (ARS).
+Question: Is he one of the most recognized figures in 20th-century art?
+Retrieved from doc: {'S10_set6_a7.txt.cl', 'S10_set6_a2.txt.cl'}
+Answer: Yes, Vincent van Gogh is one of the most recognized figures in 20th-century art. His work is widely recognized as one of the most significant and influential of all time, and his legacy continues to inspire artists and art lovers around the world. His paintings, especially his self-portraits, are considered to be some of the most iconic and recognizable in art history, and his works are collected by museums and galleries around the world. He is also a beloved figure in popular culture, with numerous books, films, and television shows based on his life and work. Overall, his legacy as a major contributor to the development of modern art is undeniable, and his work continues to inspire and influence artists and art lovers alike today.
+Question: Is he best known for co-founding the Cubist movement and for the wide variety of styles embodied in his work?
+Retrieved from doc: {'S10_set6_a1.txt.cl', 'S10_set6_a6.txt.cl'}
+Answer: Yes, Pablo Picasso was known for co-founding the Cubist movement and for the wide variety of styles embodied in his work. However, his early works, such as Les Demoiselles d'Avignon (1907) and Guernica (1937), showcase his uncanny artistic talent in his childhood and adolescence. Picasso demonstrated uncanny artistic talent in his early years, painting in a realistic manner through his childhood and adolescence; during the first decade of the twentieth century, his style changed as he experimented with different theories, techniques, and ideas. His revolutionary artistic accomplishments brought him universal renown and immense fortunes throughout his life, making him the best-known figure in twentieth century art.
+Question: Are among his most famous works the proto-Cubist Les Demoiselles d'Avignon (1907) and Guernica (1937), his portrayal of the German bombing of Guernica during the Spanish Civil War?
+Retrieved from doc: {'S10_set6_a1.txt.cl'}
+Answer: Yes, among Picasso's most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907) and Guernica (1937), both of which were created in the 1907–1909 period and are associated with the cubist movement. Les Demoiselles d'Avignon is a painting that depicts two nude women, and Guernica is a painting that depicts the bombing of Guernica during the Spanish Civil War. Both paintings have a significant impact on Picasso's style and thought and have been widely recognized as groundbreaking works in the history of art.
+Question: Are pianos used in Western music?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Yes, pianos are widely used in Western music, both as a solo instrument and in ensemble settings. Pianos have been a staple of classical music for centuries, and they continue to be a popular choice for composers and performers. Pianos have been used in many different genres of music, including classical, pop, jazz, and electronic music. Pianos are also used in many musical ensembles, such as orchestras and choirs, and they can be found in many musical productions.
+Question: Are "upright pianos" called "vertical pianos"?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Yes, "upright pianos" are also called "vertical pianos". The term "vertical piano" is a descriptive term used to refer to a piano that is designed to be played in a way that is similar to a grand piano.
+Question: Did Bartolomeo Cristofori invent the modern piano?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Bartolomeo Cristofori's contribution to the development of the piano was in the design of the hammer, which he invented in 1700. However, he did not invent the piano itself, as that was the work of other inventors such as Antonio Stradivari, who developed the first grand pianos in the early 17th century. Cristofori's hammer was a crucial element of his design, but it was not the only innovation in the piano. The forerunner of the modern damper pedal, which he invented in the 1730s, was a significant advancement in the piano's sonic capabilities. Cristofori's design was not the first piano, but he was the first to introduce keyed and unkeyed pianos, which were the precursors to the modern piano.
+Question: What is the middle pedal called on grand pianos?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: The middle pedal on grand pianos is known as the "practice" pedal or "celeste" pedal. It is a sostenuto pedal that drops a piece of felt between the hammers and strings to greatly reduce the sound of the instrument. This pedal is commonly used on pianos with a single pedal point, such as the famous Steinway grand piano.
+Question: How many black keys do modern pianos have?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: The number of black keys on modern pianos varies depending on the manufacturer and model. Some pianos have fewer keys, such as the Bösendorfer, with only 76 black keys, while others have more, such as the Steinway, with 88 black keys. However, most modern pianos have around 88 keys, which is more than enough for a complete piano range.
+Question: What is the sustain pedal called?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: The sustain pedal is also known as the pedal on the bottom or the pedal that lifts the strings above the hammers. It is a pedal that is used to sustain a single note or chord over many measures, while playing the melody in the treble section. The sustain pedal works by lowering the dampers of the strings, causing them to lift off the strings only in the bass section, allowing the pianist to sustain the note or chord without having to lift the hammers in the treble section. This technique is commonly used on grand pianos and upright pianos.
+Question: Where is Irving Berlin's piano located?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Irving Berlin's piano is located at the Smithsonian Museum of American History, located in Washington, D.C.
+Question: What kind of piano did Irving Berlin play?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Irving Berlin played a standard grand piano, which he called a "transposing piano." The transposing piano was invented in 1801 by Edward Ryley. It had a lever under the keyboard used to alter the music to any key. One of Berlin's pianos is in the Smithsonian Museum. For much of his career, Berlin only knew how to play the black keys. But with his "trick piano," he was no longer limited to the key of F-sharp.
+Question: Is the left-most pedal on a grand piano called the una corda?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Yes, the left-most pedal on a grand piano called the una corda. It is the most frequently used pedal, as it provides a soft, sustained sound to the music without altering the overall tone of the piano.
+Question: Is it advantageous for a grand piano's metal plate to be quite massive?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Yes, the size of the metal plate on a grand piano's soundboard is crucial for efficient sound transmission. The larger the metal plate, the more energy is transferred to the soundboard, which results in a more powerful and precise sound. The size of the plate is also important for the soundboard's ability to absorb sound energy and prevent it from flowing back to the piano's soundboard. Therefore, the size of the metal plate on a grand piano's soundboard is an important factor in achieving an optimal performance.
+Question: Is the mechanism in an upright piano perpendicular to its keys?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Yes, the mechanism in an upright piano is perpendicular to its keys. The keys are attached to the back of the piano, and the piano's hammers are attached to the strings that are located at the top of the piano. The action of the piano is controlled by a system of strings, hammers, and pneumatic devices that work together to produce a musical note when the piano is struck by the hammer on the appropriate string. The mechanism is designed to provide a consistent and accurate sound, which is why it is used in upright pianos.
+Question: About how tall is a typical studio piano?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: A typical studio piano is around 42 to 45 inches tall. This is the shortest cabinet that can accommodate a full-sized action located above the keyboard. The height of a studio piano is typically lower than the height of a piano console or console piano, but higher than a piano spinet. The height of a piano can vary depending on the manufacturer and the size of the piano. In general, the higher the height of a piano, the more it can accommodate. The height of a piano can also be affected by the size of the piano, the size of the keyboard, and the shape and size of the action.
+Question: What are a piano's keys generally made of?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: A piano's keys generally are made of spruce or basswood, for lightness. Spruce is normally used in high-quality pianos, and basswood is used for its durability and sonic quality. Traditionally, the black keys were made from ebony and the white keys were covered with strips of ivory, but since ivory-yielding species are now endangered and protected by treaty, plastics are now almost exclusively used. Also, ivory tends to chip more easily than plastic. Legal ivory can still be obtained in limited quantities. At one time, the Yamaha firm innovated a plastic called "Ivorine" or "Ivorite", which mimics the look and feel of ivory, but it is now almost exclusively used.
+Question: How many total keys does a typical modern piano have?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: A typical modern piano has 36 black keys and 52 white keys for a total of 88 keys (seven octaves plus a minor third, from A0 to C8).
+Question: Why are upright pianos more compact?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: The reason why upright pianos are more compact is that they are designed to be small and compact. Upright pianos typically have a shorter height and are narrower than studio pianos, which are designed to be tall and spacious. In contrast, studio pianos are longer and wider than upright pianos, and are designed to accommodate larger pianos and larger pianists. This is because studio pianos are typically used in performance spaces where space is limited, and upright pianos are used in music studios and homes where space is more plentiful.
+Question: Do older pianos have more keys than modern pianos?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: Yes, older pianos have more keys than modern pianos. The traditional grand pianos of the 19th and early 20th centuries had a total of 88 keys, including a set of 88 white keys for the lowest range and 88 black keys for the highest range. 
+
+Today, most pianos have a standard set of 88 keys, including a set of 88 white keys for the lowest range and 88 black keys for the highest range, as well as a set of extra keys for the bass and treble octaves. The extra keys are added primarily for increased resonance from the associated strings, which vibrate sympathetically with other strings whenever the damper pedal is depressed. 
+
+Older pianos have different keys and sizes, which can affect the sound and tone of the instrument. However, the basic number of keys remains constant, and most pianos have more keys than modern pianos, allowing for a wider range of sounds and tones.
+Question: What are the names of a piano's pedals?
+Retrieved from doc: {'S09_set2_a1.txt.cl', 'S10_set2_a1.txt.cl'}
+Answer: The names of a piano's pedals are "soft pedal", "practice pedal", and "sustain pedal".
