@@ -1,5 +1,7 @@
 # Exploring Retrieval-Augmented Generation with TinyLlama
-A repository for the Uppsala University Information Retrieval Course Group Project. In this project, we explore how well TinyLlama works in an information retrieval setting.
+A repository for our group project in Uppsala University's course Information Retrieval (5LN712). 
+
+Our project explores how well TinyLlama works in an information retrieval setting.
 
 ## Our key research questions:
 
