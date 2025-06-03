@@ -20,3 +20,7 @@ Kaggle's Question Answer Dataset (https://www.kaggle.com/datasets/rtatman/questi
 - Document retrieval: TF-IDF baseline retrieved documents better than Chroma
 - Answer generation: No distinct difference between the RAG with database and Zero-/One-Shot
 - Further tests needed; different embedding model with chroma, combining evaluation methods, generating answers with larger models
+
+## Author Contributions
+
+Gina Welsh implemented the TF-IDF baseline and conducted most of the background research for the study. Yanitsa Stoykova implemented the code for the Zero- and One-Shot experiments. Ida Nilsson implemented the classic RAG-pipeline.
