@@ -1,4 +1,4 @@
-# Information Retrieval Group Project
+# Exploring Retrieval-Augmented Generation with TinyLlama
 A repository for our Information Retrieval Group Project (the ChatBot Baddies). In this project, we explore how well TinyLlama works in an information retrieval setting.
 
 ## Our key research questions:
