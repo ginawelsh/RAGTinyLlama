@@ -23,4 +23,5 @@ Kaggle's Question Answer Dataset (https://www.kaggle.com/datasets/rtatman/questi
 
 ## Author Contributions
 
-Gina Welsh implemented the TF-IDF baseline and conducted most of the background research for the study. Yanitsa Stoykova implemented the code for the Zero- and One-Shot experiments. Ida Nilsson implemented the classic RAG-pipeline.
+Authors: Gina Welsh, Yanista Stoykova, Ida Nilsson. 
+Gina implemented the TF-IDF baseline and conducted most of the background research for the study. Yanitsa implemented the code for the Zero- and One-Shot experiments. Ida implemented the classic RAG-pipeline.
